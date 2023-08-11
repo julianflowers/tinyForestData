@@ -1,3 +1,7 @@
-## code to prepare `DATASET` dataset goes here
+## code to prepare `tf_latest_sf_uk` dataset goes here
 
-usethis::use_data(DATASET, overwrite = TRUE)
+load("~/Library/CloudStorage/Dropbox/Mac (2)/Desktop/tinyForestR/data/tf_latest_sf_uk.rda")
+
+needs(sf)
+
+usethis::use_data(tf_latest_sf_uk, overwrite = TRUE)
