@@ -1,0 +1,14 @@
+Package: tinyForestData
+Title: Data Package With Tiny Forest and Biodiversity Data
+Version: 0.0.0.9000
+Authors@R: 
+    person("Julian", "Flowers", , "julian.flowers13@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "https://ordic.org/0000-0001-5262-4526"))
+Description: Data relating to Tiny Forest locations, structure, biodiversity, habitat and land cover
+License: GNU (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 2.10)
+LazyData: true
