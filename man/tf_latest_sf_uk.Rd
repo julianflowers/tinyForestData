@@ -3,7 +3,7 @@
 \docType{data}
 \name{tf_latest_sf_uk}
 \alias{tf_latest_sf_uk}
-\title{Core data for UK Tiny Forests}
+\title{Core data for UK Tiny Forests in a simple features format (sf)}
 \format{
 An object of class \code{sf} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 196 rows and 8 columns.
 }

@@ -1,4 +1,4 @@
-#' Core data for UK Tiny Forests
+#' Core data for UK Tiny Forests in a simple features format (sf)
 #'
 #'
 #'Tiny Forests are small scale densely planted wooded areas stocked with 
@@ -14,17 +14,6 @@
 #'
 #'
 #'@source \url{https://tinyforest.earthwatch.org.uk/tiny-forest-sites}
-
-
-
-
-
-
-
-
-
-
-
 
 
 "tf_latest_sf_uk"
