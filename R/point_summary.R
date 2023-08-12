@@ -1,7 +1,7 @@
-#' Monthly summaries of NDVI for TF 1km m buffer areas from 2019 - 2023
+#' Monthly summaries of NDVI for TF 50 m buffer areas from 2019 - 2023
 #'
 #'
-#'Mean, median and sd of Normalised Vegetation Index (NDVI) of the 1k buffer around each Tiny Forest location
+#'Mean, median and sd of Normalised Vegetation Index (NDVI) of the 50m buffer around each Tiny Forest location
 #'Calculated from the NIR and Red bands of Sentinel 2 multispectral satellite images
 #'extracted via Google Earth Engine
 #'
@@ -14,4 +14,4 @@
 #'@source \url{https://developers.google.com/earth-engine/datasets/catalog/sentinel-2}
 
 
-"buffer_summary"
+"point_summary"
