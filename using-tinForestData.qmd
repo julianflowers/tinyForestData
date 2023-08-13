@@ -10,11 +10,11 @@ execute:
 
 ## Introduction
 
-`tinyForestData` is an R package which accompanies the `tinyForestR` package. It contains datasets which allow exploration of te develpment and biodiversity associated with Tiny Forests in the UK. It currently contains x datasets.
+`tinyForestData` is an R package which accompanies the `tinyForestR` package. It contains datasets which allow exploration of the development and biodiversity associated with Tiny Forests in the UK. It currently contains x datasets.
 
 ### `tf_latest_sf_uk`
 
-This a simple feaures dataset using EPSG 4326 as coordinate referene systam which contains data on 196 UK Tiny Forests including:
+This a simple features dataset using EPSG 4326 as coordinate reference system which contains data on 196 UK Tiny Forests including:
 
 -   Name and ID
 
@@ -49,7 +49,7 @@ tf_latest_sf_uk |>
 
 ### `tf_urban_classification`
 
-This includes the ONS (and SCottish equivalent) urban rural classification of the location of each TF.
+This includes the ONS (and Scottish equivalent) urban rural classification of the location of each TF.
 
 ```{r}
 
@@ -75,4 +75,21 @@ tf_nbn_df_2010 |>
   scale_fill_viridis_c(option = "turbo")
 
 
+```
+
+### landcover and greenspace
+
+```{r}
+
+library(sf)
+
+geo_tf <- geo_tf |> st_as_sf()
+
+geo_tf <- geo_tf |>
+  mutate(area = st_area(geo_tf))
+geo_tf_dt <- data.table::data.table(geo_tf)
+
+geo_tf_dt[, .(n = .N, s_area = sum(area)), by = .(tf_id, dscrptn)][] |>
+  data.table::fwrite("data/tf_lc.csv")
+  
 ```
