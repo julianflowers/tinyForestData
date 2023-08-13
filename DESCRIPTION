@@ -13,3 +13,13 @@ RoxygenNote: 7.2.3
 LazyData: true
 Imports: 
     data.table
+    sf
+    mapview
+    stars
+    dplyr
+    janitor
+    purrr
+    tidyr
+    readr
+    lubridate
+URL: https://julianflowers.github.io/tinyForestData/
