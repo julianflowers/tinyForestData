@@ -7,6 +7,6 @@
 #'
 #'
 #'
-#'\ref{‘eBird’ (2020). doi:10.2173/ebird.}
+#'\item{‘eBird’ (2020). doi:10.2173/ebird.}
 #'@source \url{https://ebird.org/data/download}
 "tf_ebird_counts"

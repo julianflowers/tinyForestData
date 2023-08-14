@@ -17,6 +17,6 @@ tf_ebird_counts
 Counts by year and month of ebird observations in the 1km buffer around each Tiny Forest
 }
 \details{
-\ref{‘eBird’ (2020). doi:10.2173/ebird.}
+\item{‘eBird’ (2020). doi:10.2173/ebird.}
 }
 \keyword{datasets}
