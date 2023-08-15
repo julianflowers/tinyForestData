@@ -5,12 +5,15 @@
 \alias{tf_dw_counts}
 \title{Pixel land cover counts per Tiny Forest}
 \format{
-An object of class \code{sf} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 950 rows and 4 columns.
+An object of class \code{sf} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 949 rows and 14 columns.
+}
+\source{
+\url{https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1}
 }
 \usage{
 tf_dw_counts
 }
 \description{
-Pixel land cover counts per Tiny Forest
+Modal pixel assignment to dynamic world categories using images from 2022-01-01 to 2023-08-01
 }
 \keyword{datasets}
