@@ -1,0 +1,192 @@
+---
+
+title: "TLDR"
+author: "Julian Flowers"
+editor: visual
+date: "`r Sys.Date()`"
+execute: 
+  echo: false
+  warning: false
+  message: false
+
+---
+
+```{r}
+
+remotes::install_github("https://github.com/KTH-Library/semanticscholar")
+library(semanticscholar)
+library(tidyverse)
+library(furrr)
+library(spacyr)
+library(reticulate)
+
+virtualenv_create("spacy_virtualenv")
+Sys.setenv(RETICULATE_PYTHON = "/Users/julianflowers/.virtualenvs/spacy_virtualenv/bin/python")
+use_virtualenv("spacy_virtualenv")
+py_install("spacy", pip=TRUE, envname = "spacy_virtualenv")
+
+spacy <- import("spacy")
+spacy_initialize()
+
+
+Sys.getenv("SEMANTICSCHOLAR_API")
+
+semanticscholar::S2_api()
+
+
+```
+
+```{r}
+
+S2_fields()
+
+search <- "(urban gradient*) AND (biodiversity OR species richness)"
+
+offset <- seq(0, 1000, 100)
+
+sss <- semanticscholar::S2_search_papers(search, limit = 100, fields = c("year,abstract,title,venue,referenceCount,citationCount,fieldsOfStudy"))
+
+sss$total
+
+sss_full <- map_dfr(1:ceiling(sss$total/100), \(x) semanticscholar::S2_search_papers(search, limit = 100, fields = c("year,abstract,title,venue,externalIds,referenceCount,citationCount,fieldsOfStudy"), offset = offset[x]))
+
+sss_full$data |>
+  arrange(-year) |>
+  head() |>
+  knitr::kable()
+
+
+```
+
+Search for `r search` produces `r sss$total` results.
+
+```{r paper-info}
+
+sss_full$data[2,]
+
+inf <- map(1:sss_full$total, \(x) S2_paper(identifier = sss_full$data$paperId[x]), .progress = TRUE)
+
+doi <- map(inf, "doi") |>
+  enframe() 
+
+sss <- sss_full$data |>
+  bind_cols(doi)
+
+topics <- map(inf, "topics") |>
+  enframe()
+
+sss <- sss |>
+  bind_cols(topics)
+
+sss |>
+  unnest("")
+
+```
+
+
+```{r tldr}
+
+tldrs <- map(1:nrow(sss_full$data), \(x) S2_paper2(identifier = sss_full$data$paperId[x], fields="tldr")$tldr$text, .progress = TRUE)
+tldrs <- tldrs |>
+  enframe() |>
+  bind_cols(sss_full$data) |>
+  unnest("value") |>
+  select(paperId, title, value, everything()) |>
+  arrange(-year)
+
+
+
+```
+
+
+```{r ner-abstracts}
+
+data_with_abstracts <- tldrs |>
+  filter(!str_detect(fieldsOfStudy, "Medicine"), 
+         !is.na(abstract)) |>
+  mutate(doc_id = paste0("text", row_number()))
+
+anno <- spacy_parse(data_with_abstracts$abstract, entity = TRUE, multithread = 12, nounphrase = TRUE)
+
+np <- nounphrase_extract(anno)
+ent <- entity_extract(anno)
+
+locs <- ent |>
+  filter(entity_type %in% c("LOC", "GPE"))
+
+data_with_abstracts |>
+  left_join(np) |>
+  group_by(doc_id) |>
+  mutate(nounphrase = paste(nounphrase, collapse = "; ")) |>
+  select(-sentence_id) |>
+  distinct() |>
+  left_join(locs) |>
+  mutate(locs = paste(entity, collapse = "; ")) |>
+  select(-c(sentence_id, entity_type, entity)) |>
+  distinct() |>
+  select(paperId, title, nounphrase, locs, year, venue, contains("Count") ) |>
+  DT::datatable(extensions = "Buttons", 
+                options = list(
+                  dom = "Bfrtip",
+                  buttons = c("pdf", "csv"), 
+                  pageLength = 100
+                ))
+
+```
+
+```{r flair}
+
+py_install("flair", pip = TRUE, envname = "spacy_virtualenv")
+flair <- import("flair")
+ontonotes <- flair$nn$Classifier$load('ner-ontonotes-fast')
+bioner <- flair$nn$Classifier$load('bioner')
+
+Sentence <- flair$data$Sentence
+splitter <- flair$splitter$SegtokSentenceSplitter
+
+splitter <- splitter()
+
+
+
+```
+
+
+```{r test-abstract}
+
+
+test <- Sentence(data_with_abstracts$abstract[[2]])
+test
+ontonotes$predict(test)
+bioner$predict(test)
+
+test$annotation_layers
+
+
+```
+
+```{r annotation-function}
+
+flair_annotate <- function(text){
+  
+  txt <- Sentence(text)
+  
+  ontonotes$predict(txt)
+  bioner$predict(txt)
+  
+  annox <- test$annotation_layers
+  
+  return(annox)
+
+}
+
+data_with_abstracts
+
+annotations <- map(1:nrow(data_with_abstracts), \(x) flair_annotate(data_with_abstracts$abstract[[x]]), .progress = TRUE)
+
+
+```
+
+
+
+
+
