@@ -1,13 +1,13 @@
+------------------------------------------------------------------------
 ---
 
-title: "TLDR"
-author: "Julian Flowers"
-editor: visual
-date: "`r Sys.Date()`"
+title: "TLDR" 
+author: "Julian Flowers" 
+editor: visual date: "`r Sys.Date()`" 
 execute: 
-  echo: false
-  warning: false
-  message: false
+    echo: false 
+    warning: false 
+    message: false
 
 ---
 
@@ -17,18 +17,21 @@ remotes::install_github("https://github.com/KTH-Library/semanticscholar")
 library(semanticscholar)
 library(tidyverse)
 library(furrr)
+install.packages("spacyr")
 library(spacyr)
 library(reticulate)
+library(reactable)
+library(reactablefmtr)
 
-virtualenv_create("spacy_virtualenv")
-Sys.setenv(RETICULATE_PYTHON = "/Users/julianflowers/.virtualenvs/spacy_virtualenv/bin/python")
-use_virtualenv("spacy_virtualenv")
-py_install("spacy", pip=TRUE, envname = "spacy_virtualenv")
+#virtualenv_create("spacy_venv")
+#Sys.setenv(RETICULATE_PYTHON = "/Users/julianflowers/.virtualenvs/spacy_virtualenv/bin/python")
 
-spacy <- import("spacy")
-spacy_initialize()
+#use_virtualenv("spacy_venv")
+# py_install("spacy", pip=TRUE, envname = "spacy_virtualenv")
 
+#spacy_install_virtualenv(python_path = "/Users/julianflowers/.virtualenvs/spacy_venv/bin/python")
 
+spacy_initialize(virtualenv = "spacy_virtualenv")
 Sys.getenv("SEMANTICSCHOLAR_API")
 
 semanticscholar::S2_api()
@@ -38,22 +41,20 @@ semanticscholar::S2_api()
 
 ```{r}
 
-S2_fields()
+#S2_fields()
 
-search <- "(urban gradient*) AND (biodiversity OR species richness)"
+search <- "(urban green infrastructure) AND (remote sensing OR satellite*)"
 
-offset <- seq(0, 1000, 100)
+offset <- seq(0, 7000, 100)
 
 sss <- semanticscholar::S2_search_papers(search, limit = 100, fields = c("year,abstract,title,venue,referenceCount,citationCount,fieldsOfStudy"))
 
 sss$total
 
-sss_full <- map_dfr(1:ceiling(sss$total/100), \(x) semanticscholar::S2_search_papers(search, limit = 100, fields = c("year,abstract,title,venue,externalIds,referenceCount,citationCount,fieldsOfStudy"), offset = offset[x]))
+sss_full <- map_dfr(1:ceiling(sss$total/100), \(x) semanticscholar::S2_search_papers(search, limit = 100, fields = c("year,abstract,title,venue,externalIds,referenceCount,citationCount,fieldsOfStudy"), offset = offset[x]), .progress = TRUE)
 
 sss_full$data |>
-  arrange(-year) |>
-  head() |>
-  knitr::kable()
+  arrange(-year) 
 
 
 ```
@@ -61,8 +62,6 @@ sss_full$data |>
 Search for `r search` produces `r sss$total` results.
 
 ```{r paper-info}
-
-sss_full$data[2,]
 
 inf <- map(1:sss_full$total, \(x) S2_paper(identifier = sss_full$data$paperId[x]), .progress = TRUE)
 
@@ -78,42 +77,74 @@ topics <- map(inf, "topics") |>
 sss <- sss |>
   bind_cols(topics)
 
+sss <- sss |>
+  unnest("value...11") 
+
 sss |>
-  unnest("")
+  reactable::reactable(showPageSizeOptions = TRUE, sortable = TRUE, filterable = TRUE, defaultPageSize = 50, searchable = TRUE, selection = "multiple") |>
+  reactablefmtr::save_reactable_test("urban_gi_remote_sensing.html")
 
 ```
-
+## Extract tl;dr
 
 ```{r tldr}
+library(furrr)
+plan(multisession)
 
-tldrs <- map(1:nrow(sss_full$data), \(x) S2_paper2(identifier = sss_full$data$paperId[x], fields="tldr")$tldr$text, .progress = TRUE)
+tldrs <- future_map(1:nrow(sss_full$data), \(x) S2_paper2(identifier = sss_full$data$paperId[x], fields="tldr")$tldr$text, .progress = TRUE)
+
 tldrs <- tldrs |>
   enframe() |>
   bind_cols(sss_full$data) |>
-  unnest("value") |>
-  select(paperId, title, value, everything()) |>
+  select(paperId, title, tldr = value, everything()) |>
   arrange(-year)
 
+tldr <- tldrs |>
+  unnest("externalIds") 
+
+tldr <- tldr |>
+  unnest_wider("fieldsOfStudy", names_sep = "_") 
+
+tldr <- tldr |>
+  bind_cols(topic = topics) |>
+  unnest_wider("value", names_sep = "_") |>
+  select(paperId, title, tldr, DOI, CorpusId, abstract, journal = venue, year, fieldsOfStudy_1, value_topic, referenceCount, citationCount ) |>
+  unnest_wider("tldr", names_sep = "_")
 
 
 ```
 
+## Cycle 1
 
-```{r ner-abstracts}
+Look at titles and tldrs (where they exist)
+
+```{r}
+
+tldrs |>
+  select(paperId, title, tldr, year, fieldsOfStudy) |>
+  filter(tldr != "NULL") |>
+  unnest("tldr") |>
+  reactable::reactable(showPageSizeOptions = TRUE, sortable = TRUE, filterable = TRUE, defaultPageSize = 50, searchable = TRUE, selection = "multiple") |>
+  reactablefmtr::save_reactable_test("tldrs1.html")
+  
+
+
+```
+
+```{r ner-abstracts, eval=FALSE}
 
 data_with_abstracts <- tldrs |>
-  filter(!str_detect(fieldsOfStudy, "Medicine"), 
-         !is.na(abstract)) |>
+  filter(!is.na(abstract)) |>
   mutate(doc_id = paste0("text", row_number()))
-
+# 
 anno <- spacy_parse(data_with_abstracts$abstract, entity = TRUE, multithread = 12, nounphrase = TRUE)
-
+# 
 np <- nounphrase_extract(anno)
 ent <- entity_extract(anno)
-
+# 
 locs <- ent |>
-  filter(entity_type %in% c("LOC", "GPE"))
-
+   filter(entity_type %in% c("LOC", "GPE"))
+# 
 data_with_abstracts |>
   left_join(np) |>
   group_by(doc_id) |>
@@ -125,20 +156,18 @@ data_with_abstracts |>
   select(-c(sentence_id, entity_type, entity)) |>
   distinct() |>
   select(paperId, title, nounphrase, locs, year, venue, contains("Count") ) |>
-  DT::datatable(extensions = "Buttons", 
-                options = list(
-                  dom = "Bfrtip",
-                  buttons = c("pdf", "csv"), 
-                  pageLength = 100
-                ))
+  reactable::reactable(showPageSizeOptions = TRUE, sortable = TRUE, filterable = TRUE, defaultPageSize = 50, searchable = TRUE, selection = "multiple") |>
+  reactablefmtr::save_reactable_test("spacy_parsed_abstracts.html")
+  
 
 ```
 
-```{r flair}
+```{r flair, eval=FALSE}
 
+#virtualenv_list()
 py_install("flair", pip = TRUE, envname = "spacy_virtualenv")
 flair <- import("flair")
-ontonotes <- flair$nn$Classifier$load('ner-ontonotes-fast')
+ontonotes <- flair$nn$Classifier$load("ner")
 bioner <- flair$nn$Classifier$load('bioner')
 
 Sentence <- flair$data$Sentence
@@ -150,8 +179,7 @@ splitter <- splitter()
 
 ```
 
-
-```{r test-abstract}
+```{r test-abstract, eval=FALSE}
 
 
 test <- Sentence(data_with_abstracts$abstract[[2]])
@@ -159,12 +187,13 @@ test
 ontonotes$predict(test)
 bioner$predict(test)
 
+
 test$annotation_layers
 
 
 ```
 
-```{r annotation-function}
+```{r annotation-function, eval=FALSE}
 
 flair_annotate <- function(text){
   
@@ -179,9 +208,67 @@ flair_annotate <- function(text){
 
 }
 
-data_with_abstracts
+plan(multisession)
 
-annotations <- map(1:nrow(data_with_abstracts), \(x) flair_annotate(data_with_abstracts$abstract[[x]]), .progress = TRUE)
+annotations <- future_map(1:nrow(data_with_abstracts), \(x) flair_annotate(data_with_abstracts$abstract[[x]]), .progress = TRUE)
+
+
+```
+
+
+## Format for Zotero upload
+
+Makes use of the `pyzotero` Python package. This needs a Zotero user id and an API key.
+
+```{r}
+## install zoteror package
+## 
+
+# remotes::install_github("giocomai/zoteror")
+# library(zoteror)
+# 
+# credentials <- zot_auth()
+# zot_set_options(user = 8324843, credentials = credentials)
+# key <- zot_create_collection(collection_name = "green_inf") 
+
+## install 
+reticulate::py_install("pyzotero", pip = TRUE, envname = "spacy_virtualenv")
+pyz <- import("pyzotero")
+zotero <- pyz$zotero
+
+zoteror::zot_auth()
+
+zoteror::zot_get_item_template(item_type = "journalArticle")
+zoteror::zot_set_options(user = 8324843)
+zoteror::zot_add_to_collection(my_refs_1$URL, "IZ58FGBA")
+
+## connect
+zot <- zotero$Zotero(8324843, library_type = "user", api_key = "nwYkdqxckSNkc7pVWhHLLk5B")
+
+items$top(limit = 4)
+
+## view collections
+collections <- zot$collections() |>
+  enframe() |>
+  unnest_auto("value") |>
+  unnest_auto("meta") |>
+  unnest_auto("data") |>
+  unnest_auto("links")
+
+zot$create_items(my_refs[1:10])
+
+
+zot$item_types()
+
+zot$item_template(itemtype = "journalArticle")
+my_refs <- zotero_references(ids)
+my_refs_1 <- my_refs |>
+  enframe() |>
+  unnest_wider("value") |>
+  #unnest("creators") |>
+  unnest("journalArticle")
+
+zot$addto_collection(collection = "IZ58FGBA",  payload = my_refs[[1]])
 
 
 ```
@@ -189,4 +276,18 @@ annotations <- map(1:nrow(data_with_abstracts), \(x) flair_annotate(data_with_ab
 
 
 
+```{r}
+
+ids <- pluck(sss, "value...11")
+ids[1]
+
+my_refs <- zotero_references(ids)
+
+zoteror::zot_add_to_collection(ids[[1]][[1]])
+
+my_refs[[1]]$journalArticle |>
+  glimpse()
+
+
+```
 
