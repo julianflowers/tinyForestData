@@ -22,6 +22,7 @@ library(spacyr)
 library(reticulate)
 library(reactable)
 library(reactablefmtr)
+library(ggrepel)
 
 #virtualenv_create("spacy_venv")
 #Sys.setenv(RETICULATE_PYTHON = "/Users/julianflowers/.virtualenvs/spacy_virtualenv/bin/python")
@@ -43,7 +44,7 @@ semanticscholar::S2_api()
 
 #S2_fields()
 
-search <- "(urban green infrastructure) AND (remote sensing OR satellite*)"
+search <- "(urban forest) AND (species richness OR biodiversity*)"
 
 offset <- seq(0, 7000, 100)
 
@@ -53,13 +54,25 @@ sss$total
 
 sss_full <- map_dfr(1:ceiling(sss$total/100), \(x) semanticscholar::S2_search_papers(search, limit = 100, fields = c("year,abstract,title,venue,externalIds,referenceCount,citationCount,fieldsOfStudy"), offset = offset[x]), .progress = TRUE)
 
-sss_full$data |>
-  arrange(-year) 
+sss_full <- sss_full$data |>
+  arrange(-year) |>
+  unnest_wider("externalIds")
 
 
 ```
 
 Search for `r search` produces `r sss$total` results.
+
+```{r}
+
+sss_full |>
+  count(year) |>
+  ggplot() +
+  geom_col(aes(year, n)) +
+  ggtitle(paste0("Searches for ", search))
+
+```
+
 
 ```{r paper-info}
 
@@ -82,7 +95,7 @@ sss <- sss |>
 
 sss |>
   reactable::reactable(showPageSizeOptions = TRUE, sortable = TRUE, filterable = TRUE, defaultPageSize = 50, searchable = TRUE, selection = "multiple") |>
-  reactablefmtr::save_reactable_test("urban_gi_remote_sensing.html")
+  reactablefmtr::save_reactable_test("urban_gi_biodiversity.html")
 
 ```
 ## Extract tl;dr
@@ -91,25 +104,16 @@ sss |>
 library(furrr)
 plan(multisession)
 
-tldrs <- future_map(1:nrow(sss_full$data), \(x) S2_paper2(identifier = sss_full$data$paperId[x], fields="tldr")$tldr$text, .progress = TRUE)
+tldrs <- future_map(1:nrow(sss_full), \(x) S2_paper2(identifier = sss_full$paperId[x], fields="tldr")$tldr$text, .progress = TRUE)
 
 tldrs <- tldrs |>
   enframe() |>
-  bind_cols(sss_full$data) |>
+  bind_cols(sss_full) |>
   select(paperId, title, tldr = value, everything()) |>
   arrange(-year)
 
 tldr <- tldrs |>
-  unnest("externalIds") 
-
-tldr <- tldr |>
   unnest_wider("fieldsOfStudy", names_sep = "_") 
-
-tldr <- tldr |>
-  bind_cols(topic = topics) |>
-  unnest_wider("value", names_sep = "_") |>
-  select(paperId, title, tldr, DOI, CorpusId, abstract, journal = venue, year, fieldsOfStudy_1, value_topic, referenceCount, citationCount ) |>
-  unnest_wider("tldr", names_sep = "_")
 
 
 ```
@@ -133,7 +137,7 @@ tldrs |>
 
 ```{r ner-abstracts, eval=FALSE}
 
-data_with_abstracts <- tldrs |>
+data_with_abstracts <- tldr |>
   filter(!is.na(abstract)) |>
   mutate(doc_id = paste0("text", row_number()))
 # 
@@ -162,7 +166,43 @@ data_with_abstracts |>
 
 ```
 
-```{r flair, eval=FALSE}
+## Clustering
+
+```{r}
+
+library(myScrapers)
+
+corp <- myScrapers::create_abstract_corpus(data_with_abstracts |>
+                                     rename(absText = abstract, 
+                                            pmid = DOI) )
+
+cluster <- create_abstract_cluster(corp$corpus, minPts = 4)
+
+cluster$cluster_size
+
+labels <- create_cluster_labels(corp$corpus, clustering = cluster$clustering)
+
+clus_plot <- labels$results |>
+  left_join(data_with_abstracts, by = c("pmid.value" = "DOI")) |>
+  select(title, abstract, X1, X2, cluster, doi = pmid.value, clus_names) |>
+  ggplot() +
+  geom_point(aes(X1, X2, colour = clus_names, label = paste(title, doi )), show.legend = FALSE)+
+  geom_point(data = labels$plot, aes(medX, medY, colour = clus_names), shape = "X", size = 5, show.legend = FALSE)
+
+clus_plot +
+  stat_ellipse(aes(X1, X2, colour = clus_names), show.legend = FALSE) +
+  geom_text_repel(data = labels$plot, aes(medX, medY, label = clus_names, colour = clus_names), show.legend = FALSE, direction = "y") +
+  theme_minimal()
+
+library(plotly)
+
+ggplotly(clus_plot)
+
+```
+
+
+
+```{r flair, eval=FALSE, results='hide'}
 
 #virtualenv_list()
 py_install("flair", pip = TRUE, envname = "spacy_virtualenv")
@@ -182,7 +222,7 @@ splitter <- splitter()
 ```{r test-abstract, eval=FALSE}
 
 
-test <- Sentence(data_with_abstracts$abstract[[2]])
+test <- Sentence(data_with_abstracts$abstract[[13]])
 test
 ontonotes$predict(test)
 bioner$predict(test)
@@ -202,16 +242,26 @@ flair_annotate <- function(text){
   ontonotes$predict(txt)
   bioner$predict(txt)
   
-  annox <- test$annotation_layers
+  annox <- txt$annotation_layers
   
   return(annox)
 
 }
 
-plan(multisession)
+flair_annotate(data_with_abstracts$abstract[[1]])
 
-annotations <- future_map(1:nrow(data_with_abstracts), \(x) flair_annotate(data_with_abstracts$abstract[[x]]), .progress = TRUE)
+safe_annotate <- safely(flair_annotate, otherwise = NA_real_)
 
+annotations <- map(1:nrow(data_with_abstracts), \(x) safe_annotate(data_with_abstracts$abstract[[x]]), .progress = TRUE)
+
+annotations |>
+  map("result") |>
+  enframe()
+  
+data_with_abstracts |>
+  unnest_wider("externalIds") |>
+  reactable::reactable(showPageSizeOptions = TRUE, sortable = TRUE, filterable = TRUE, defaultPageSize = 50, searchable = TRUE, selection = "multiple") |>
+  reactablefmtr::save_reactable_test("gi_biodiversity.html")
 
 ```
 
