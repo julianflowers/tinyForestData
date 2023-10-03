@@ -41,17 +41,13 @@ g <- googledrive::drive_find(pattern = "pdf", n_max = 100)
 g |>
   DT::datatable()
 
-p <- here::here("~/Downloads")
-
-f <- list.files(p, "pdf$", full.names = TRUE)
-
 g[26,]
 
-f <- drive_download(g$id[26])
+f <- drive_download(g$id[51])
 
-f
+h <- "/Users/julianflowers/Downloads/gcb13964-sup-0001-supinfo.pdf"
 
-textr <- textract$process(f$local_path)
+textr <- textract$process(h)
 
 text <- py_str(textr) |>
   as.character(encoding = "utf-8")
@@ -76,12 +72,13 @@ map(ents, "species") |>
   separate(value, c("species", "prob"), "→") |>
   mutate(species = str_remove_all(species, '\\\"'),
          species = str_remove_all(species, ": "), 
-         species = str_replace_all(species, "\\\\n", " " ), 
-         species = str_replace_all(species, '\\s?\"', ' '),
-         prob = parse_number(prob))
+         species = str_replace_all(species, "\\\\n|\\\n", " " ), 
+         species = str_remove_all(species, '"'),
+         prob = parse_number(prob)) |>
+  gt::gt()
 
 
-         map(ents, "ner") |>
+  map(ents, "ner") |>
   flatten() |>
   rbind() |>
   map(\(x) py_str(x) |> as.character()) |>
@@ -91,5 +88,6 @@ map(ents, "species") |>
   mutate(value1 = str_extract(value, '→ .*'), 
          value1 = str_remove(value1, "→ "), 
          value = str_remove(value, "→ .*")) |>
-  filter(value1 %in% c("GPE", "LOC"))
+  filter(value1 %in% c("GPE", "LOC")) |>
+    gt::gt()
 
