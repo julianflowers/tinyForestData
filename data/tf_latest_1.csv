@@ -1,0 +1,670 @@
+tf_id,lat,lon,planted_by,plant_date,area,class_area,feature,trees,tf_age
+85,51.777888999999995,-1.4691389999999998,"Volunteer Group, Local Residents, Earthwatch
+
+",2020-03-14,207,30,No,"Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hazel(Corylus avellana) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Willow, goat(Salix caprea)",1330
+86,51.76913900000001,-1.2154719999999999,"Volunteer Group, Landscape contractors
+
+",2021-01-28,201,16,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Common privet(Ligustrum vulgare) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Wild service tree(Sorbus torminalis)",1010
+87,51.734778000000006,-1.2398609999999997,"Landscape contractors
+
+",2021-02-04,206,12,No,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Apple, crab(Malus sylvestris) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Poplar, black(Poplus nigra) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",1003
+88,51.500278,-2.6003330000000004,"Volunteer Group
+
+",2021-02-04,205,23,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Common privet(Ligustrum vulgare) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Spindle(Euonymus europaea) | Wayfaring tree(Viburnum lantana) | Whitebeam(Sorbus aria) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",1003
+89,55.87525,-4.160222,"Landscape contractors
+
+",2021-02-19,206,22,Yes,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris)",988
+90,49.193417000000004,-2.091139,"School Children
+
+",2021-02-22,200,16,No,"Apple, crab(Malus sylvestris) | Ash(Fraxinus excelsior) | Blackthorn(Prunus spinosa) | Cherry Plum(Prunus cerasifera) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Medlar(Mespilus germanica) | Oak, english(Quercus robur) | Sweet chestnut(Castanea sativa) | Wild Pear(Pyrus communis)",985
+91,52.63213900000001,-1.174139,"School Children
+
+",2021-02-26,205,18,No,"Alder buckthorn(Frangula alnus) | Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Wild service tree(Sorbus torminalis)",981
+92,52.535444,-1.8611389999999999,"Landscape contractors
+
+",2021-03-02,205,18,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Dogwood(Cornus sanguinea) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea) | Willow, grey(Salix cinerea subsp. Oleifolia)",977
+93,51.511027999999996,-0.227833,"Corporate Employees
+
+",2021-03-08,200,21,No,"Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis)",971
+94,50.828,-0.298167,"Landscape contractors
+
+",2021-03-11,205,28,No,"Alder(Alnus glutinosa) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Gorse(Ulex europaeus) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, grey(Salix cinerea subsp. Oleifolia)",968
+95,52.582056,-2.1461940000000004,"School Children, Landscape contractors
+
+",2021-03-10,205,18,No,"Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis)",969
+96,51.542778000000006,-1.7863609999999999,"Landscape contractors
+
+",2021-03-11,205,NA,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea) | Willow, grey(Salix cinerea subsp. Oleifolia)",968
+97,51.55686099999999,0.09075,"Landscape contractors
+
+",2021-03-18,209,34,No,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea) | Willow, grey(Salix cinerea subsp. Oleifolia)",961
+98,51.404913,-1.341047,"Landscape contractors
+
+",2021-03-26,202,21,No,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea) | Willow, grey(Salix cinerea subsp. Oleifolia)",953
+99,53.53533300000001,-1.1676389999999999,"Landscape contractors
+
+",2021-03-25,207,31,Yes,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Spindle(Euonymus europaea) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",954
+100,53.526,-1.3096109999999999,"Landscape contractors
+
+",2021-03-26,204,39,Yes,"Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Wild service tree(Sorbus torminalis)",953
+164,51.40505,-1.341114,"Landscape contractors
+
+",2021-03-26,202,21,No,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea) | Willow, grey(Salix cinerea subsp. Oleifolia)",953
+292,53.686272,-1.3026689999999999,"Volunteer Group, Local Residents
+
+",2022-03-08,200,3,No,"Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Wayfaring tree(Viburnum lantana) | Willow, goat(Salix caprea)",606
+290,50.964583,-1.371917,"Local Residents, School Children
+
+",2022-03-28,200,NA,NA,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Whitebeam(Sorbus aria) | Wild service tree(Sorbus torminalis) | Willow, grey(Salix cinerea subsp. Oleifolia)",586
+132,55.859899999999996,-4.303606,"Volunteer Group, Local Residents, School Children
+
+",2021-10-21,149,NA,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Juniper(Juniperus communis) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris)",744
+133,55.860518000000006,-4.308922,"Volunteer Group, Local Residents
+
+",2021-10-22,155,NA,No,"Alder(Alnus glutinosa) | Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Juniper(Juniperus communis) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Willow, grey(Salix cinerea subsp. Oleifolia)",743
+134,55.852919,-4.246042000000001,"Volunteer Group, Local Residents
+
+",2021-10-18,138,NA,No,"Alder(Alnus glutinosa) | Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Juniper(Juniperus communis) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia)",747
+135,55.838286,-4.2892150000000004,"Volunteer Group, Local Residents
+
+",2021-10-19,207,NA,No,"Alder(Alnus glutinosa) | Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Juniper(Juniperus communis) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Willow, grey(Salix cinerea subsp. Oleifolia)",746
+136,55.97362699999999,-3.226764,"Volunteer Group
+
+",2021-12-03,200,16,No,"Apple, crab(Malus sylvestris) | Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Juniper(Juniperus communis) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia)",701
+137,55.915614,-3.158599,"School Children
+
+",2021-12-02,205,25,No,"Apple, crab(Malus sylvestris) | Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Juniper(Juniperus communis) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia)",702
+138,53.778685,-1.7499369999999999,"School Children
+
+",2021-11-24,202,43,Yes,"Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Dog Rose(Rosa canina) | Gorse(Ulex europaeus) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",710
+139,53.407195,-3.0264519999999995,"School Children
+
+",2021-11-16,205,NA,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",718
+140,51.233563000000004,-2.3366539999999993,"Volunteer Group, Local Residents
+
+",2021-11-13,205,60,Yes,"Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Spindle(Euonymus europaea) | Wild service tree(Sorbus torminalis)",721
+141,51.405195000000006,-1.292495,"Volunteer Group, Local Residents
+
+",2021-11-26,196,35,Yes,"Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis)",708
+142,52.761410000000005,-1.2210299999999998,"Volunteer Group, Local Residents, School Children
+
+",2021-11-11,205,25,No,"Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",723
+143,52.577909,-2.0763849999999997,"School Children
+
+",2021-11-29,204,28,No,"Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elm, wych(Ulmus glabra) | Gorse(Ulex europaeus) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",705
+144,53.002925000000005,-1.16985,"Volunteer Group, Local Residents
+
+",2021-11-20,205,56,Yes,"Beech, common(Fagus sylvatica) | Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Whitebeam(Sorbus aria)",714
+145,53.009963,-1.197738,"School Children
+
+",2021-12-15,205,28,No,"Beech, common(Fagus sylvatica) | Bilberry(Vaccinium myrtillus) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Whitebeam(Sorbus aria)",689
+146,52.997873,-1.179789,"Volunteer Group, Local Residents
+
+",2021-11-06,200,21,No,"Beech, common(Fagus sylvatica) | Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea)",728
+147,53.65228,-1.7481639999999998,"School Children
+
+",2021-12-08,209,34,No,"Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Wild service tree(Sorbus torminalis)",696
+148,53.424426999999994,-3.0427370000000002,"School Children
+
+",2021-11-17,207,32,No,"Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",717
+149,51.718875000000004,-1.2314989999999997,"Volunteer Group, Local Residents
+
+",2021-12-06,206,39,No,"Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Elm, wych(Ulmus glabra) | Gorse(Ulex europaeus) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",698
+150,51.457094999999995,-2.1066019999999996,"Corporate Employees, Local Residents, School Children, Earthwatch
+
+",2022-02-10,200,10,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Poplar, black(Poplus nigra) | Spindle(Euonymus europaea) | Wayfaring tree(Viburnum lantana) | Whitebeam(Sorbus aria) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",632
+151,51.516779,-0.33705699999999994,"School Children, Earthwatch
+
+",2022-02-25,175,35,Yes,"Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Wild service tree(Sorbus torminalis)",617
+153,55.970752000000005,-3.2481360000000006,"Local Residents
+
+",2021-10-14,200,40,No,"Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",751
+268,55.827102000000004,-4.293608700000001,"Volunteer Group, Local Residents, School Children
+
+",2022-03-21,200,NA,No,"Apple, crab(Malus sylvestris) | Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Juniper(Juniperus communis) | Oak, english(Quercus robur) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia)",593
+269,56.46786399999999,-2.9566139999999996,"Volunteer Group, Local Residents, School Children
+
+",2022-03-26,200,NA,No,"Alder(Alnus glutinosa) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Sea-buckthorn(Hippophae rhamnoides) | Spindle(Euonymus europaea) | Willow, goat(Salix caprea)",588
+270,55.90290775264437,-4.251175737308021,"Volunteer Group, School Children
+
+",2022-03-23,200,NA,No,"Alder(Alnus glutinosa) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Oak, english(Quercus robur) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia)",591
+272,55.45474299999999,-4.2808133,"Volunteer Group, Local Residents, School Children, Earthwatch
+
+",2022-03-24,200,NA,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Wild rasperry(Rubus idaeus) | Willow, goat(Salix caprea)",590
+274,56.18074975212664,-3.0390674554807897,"Volunteer Group, School Children
+
+",2022-03-30,200,NA,No,"Alder(Alnus glutinosa) | Birch, silver(Betula pendula) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Oak, english(Quercus robur) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia)",584
+276,55.844883999999986,-3.615064,"Volunteer Group, Local Residents, School Children
+
+",2022-03-16,200,NA,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",598
+277,55.62021000000001,-4.47898,"Local Residents
+
+",2022-03-22,200,NA,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Wild rasperry(Rubus idaeus) | Willow, goat(Salix caprea)",592
+278,55.86102215360309,-3.6940404420645097,"Volunteer Group, Local Residents, School Children
+
+",2022-03-15,200,NA,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",599
+279,55.920206,-3.2696146,"Volunteer Group, Local Residents, School Children
+
+",2022-03-22,200,80,No,"Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",592
+280,55.910308,-3.2288665,"Volunteer Group, Local Residents, School Children
+
+",2022-03-23,200,20,No,"Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",591
+281,55.744693,-4.669491,"Volunteer Group, Local Residents
+
+",2022-03-20,200,NA,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Wild rasperry(Rubus idaeus) | Willow, goat(Salix caprea)",594
+282,56.479028,-2.905574,"Volunteer Group, Local Residents, School Children
+
+",2022-03-27,200,10,No,"Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | Hawthorn(Crataegus monogyna) | Hornbeam(Carpinus betulus) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Willow, goat(Salix caprea)",587
+283,55.871315,-3.0972679999999997,"School Children
+
+",2022-04-07,200,NA,No,"Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",576
+284,52.58444399999999,13.400556000000002,"Local Residents, School Children
+
+",2022-03-12,200,10,No,"Alder(Alnus glutinosa) | Almond leaved willow(Salix triandra) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Fluttering ulm(Ulmus laevis) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Wild rasperry(Rubus idaeus) | Willow, goat(Salix caprea)",602
+374,55.89811250760339,-3.609391110516,"Volunteer Group, Local Residents, School Children
+
+",2023-03-16,200,NA,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",233
+375,55.89556203678853,-3.3139764179268703,"Volunteer Group, Local Residents, School Children
+
+",2023-03-21,200,NA,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Willow, grey(Salix cinerea subsp. Oleifolia)",228
+376,55.96773242591303,-3.1882771841667568,"Volunteer Group, Local Residents, School Children
+
+",2023-03-29,200,NA,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Willow, grey(Salix cinerea subsp. Oleifolia)",220
+378,56.488909,-2.9833969000000002,"Volunteer Group, Local Residents, School Children
+
+",2023-03-26,200,NA,No,NA,223
+379,56.470111,-3.0139017000000003,"Volunteer Group, Local Residents, School Children
+
+",2023-03-27,200,NA,No,NA,222
+154,55.934302,-3.1123477,"Local Residents, School Children
+
+",2022-01-09,200,60,No,"Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",664
+244,55.929883999999994,-3.072584,"School Children, University Staff & Students
+
+",2022-02-24,312,220,Yes,"Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",618
+155,55.85368699999999,-3.565495,"Volunteer Group, Local Residents, School Children
+
+",2022-03-17,200,NA,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",597
+156,55.830239999999996,-4.259885,"Volunteer Group, Local Residents, School Children
+
+",2022-03-25,200,NA,No,"Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Gorse(Ulex europaeus) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Juniper(Juniperus communis) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia)",589
+161,57.131053,-2.1213439,"Corporate Employees, School Children
+
+",2022-03-16,100,1,NA,"Alder(Alnus glutinosa) | Alder, grey(Alnus incana) | Apple, crab(Malus sylvestris) | Ash(Fraxinus excelsior) | Birch, silver(Betula pendula) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Elm, english(Ulmus procera) | Gorse(Ulex europaeus) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Juniper(Juniperus communis) | Oak, english(Quercus robur) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Whitebeam(Sorbus aria) | Willow, common osier(Salix viminalis)",598
+165,51.57851490000001,0.096954,"School Children
+
+",2022-03-15,202,55,Yes,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea) | Willow, grey(Salix cinerea subsp. Oleifolia)",599
+167,52.54009,-1.362815,"Local Residents, School Children
+
+",2022-01-26,201,2,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Common privet(Ligustrum vulgare) | Dog Rose(Rosa canina) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Spindle(Euonymus europaea) | Whitebeam(Sorbus aria) | Wild service tree(Sorbus torminalis)",647
+168,51.427743,0.005939,"Local Residents, School Children, Earthwatch
+
+",2022-02-28,208,41,No,"Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Wild service tree(Sorbus torminalis)",614
+170,53.530082,-1.0336919999999998,"Landscape contractors
+
+",2022-03-21,204,18,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Common privet(Ligustrum vulgare) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Willow, goat(Salix caprea)",593
+171,53.110708,-2.457967,"Corporate Employees, Local Residents, Earthwatch, Landscape contractors
+
+",2022-02-23,205,NA,No,"Alder buckthorn(Frangula alnus) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Wild service tree(Sorbus torminalis)",619
+172,53.797216000000006,-2.9966179999999993,"Local Residents, School Children
+
+",2022-03-25,200,19,No,"Apple, crab(Malus sylvestris) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Elder(Sambucus nigra) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea)",589
+174,52.576195000000006,-2.073685,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-02-02,201,16,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",640
+175,52.698821,-1.832111,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-01-21,204,NA,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",652
+176,52.679149,-1.8232570000000001,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-01-18,205,NA,Yes,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Wild service tree(Sorbus torminalis)",655
+177,52.686275,-1.819246,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-01-17,209,NA,Yes,"Alder(Alnus glutinosa) | Birch, downy(Betula pubescens) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",656
+179,52.680665999999995,-1.912416,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-01-19,201,15,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",654
+180,52.687002,-1.9283109999999999,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-01-20,207,NA,No,"Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",653
+181,52.58350741460279,-1.9584613410972598,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-01-10,201,NA,No,"Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",663
+182,52.594506,-1.9753939999999997,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-01-11,205,16,No,"Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",662
+183,52.569163,-2.0198379999999996,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-01-13,210,30,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",660
+184,52.561783,-2.02768,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-01-13,210,30,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea) | Willow, grey(Salix cinerea subsp. Oleifolia)",660
+185,52.586792494175604,-2.06688092579331,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-01-14,204,NA,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea) | Willow, grey(Salix cinerea subsp. Oleifolia)",659
+186,52.59225500000001,-1.9764239999999997,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-01-11,206,NA,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",662
+187,52.541428999999994,-1.9932789999999998,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-01-24,210,14,Yes,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",649
+188,52.577422,-1.9094669999999998,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-01-10,205,21,Yes,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Wild service tree(Sorbus torminalis)",663
+189,52.630221896333396,-1.99648580515203,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-01-12,202,NA,Yes,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Wild service tree(Sorbus torminalis) | Willow, grey(Salix cinerea subsp. Oleifolia)",661
+190,52.607959,-1.97451,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-01-12,205,25,Yes,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Wild service tree(Sorbus torminalis)",661
+202,51.502237,0.12754900000000002,"Local Residents, School Children, Earthwatch
+
+",2022-02-19,200,28,No,"Alder(Alnus glutinosa) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea) | Willow, grey(Salix cinerea subsp. Oleifolia)",623
+203,51.589090999999996,-0.19690500000000002,"Volunteer Group, Local Residents, School Children, Earthwatch
+
+",2022-02-24,205,NA,No,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Pine, scots(Pinus sylvestris) | Willow, goat(Salix caprea) | Willow, grey(Salix cinerea subsp. Oleifolia)",618
+204,51.484672999999994,-0.205553,"Local Residents, School Children, Earthwatch
+
+",2022-03-01,196,24,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Wayfaring tree(Viburnum lantana)",613
+211,51.526791,0.14764700000000003,"Corporate Employees, Earthwatch
+
+",2022-04-06,200,NA,No,"Alder(Alnus glutinosa) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Common privet(Ligustrum vulgare) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea) | Willow, grey(Salix cinerea subsp. Oleifolia)",577
+212,51.56231900000001,-1.750489,"Local Residents, Earthwatch, Landscape contractors
+
+",2022-03-07,200,3,No,"Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Poplar, black(Poplus nigra) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Wayfaring tree(Viburnum lantana) | Willow, goat(Salix caprea) | Willow, grey(Salix cinerea subsp. Oleifolia)",607
+214,52.221545000000006,0.15268700000000002,"Volunteer Group, Local Residents, Earthwatch
+
+",2022-03-26,201,NA,No,"Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur)",588
+215,52.176945,0.11984999999999998,"School Children, Earthwatch, Landscape contractors
+
+",2022-03-23,205,30,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia)",591
+216,52.22713100000001,0.13342400000000001,"School Children, Earthwatch
+
+",2022-03-24,206,39,No,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Elder(Sambucus nigra) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Willow, grey(Salix cinerea subsp. Oleifolia)",590
+217,55.054036999999994,-1.7386199999999998,"Corporate Employees, School Children, Earthwatch
+
+",2022-03-16,200,28,No,"Alder(Alnus glutinosa) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Common privet(Ligustrum vulgare) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elm, wych(Ulmus glabra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Wayfaring tree(Viburnum lantana)",598
+245,53.611045999999995,-1.164036,"
+",2022-04-01,200,NA,NA,"Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Gorse(Ulex europaeus) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea)",582
+307,52.4791686,-0.15299160000000003,"School Children, Earthwatch
+
+",2022-11-22,205,18,No,"Alder(Alnus glutinosa) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Common privet(Ligustrum vulgare) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Willow, goat(Salix caprea)",347
+308,52.38936045999999,0.11507062000000001,"School Children, Earthwatch, Landscape contractors
+
+",2022-12-13,197,28,No,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Willow, grey(Salix cinerea subsp. Oleifolia)",326
+309,52.30166899999999,-0.063399,"School Children, Earthwatch
+
+",2022-11-28,200,18,No,"Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Gorse(Ulex europaeus) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Willow, grey(Salix cinerea subsp. Oleifolia)",341
+313,51.603463,-0.10439500000000002,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-10-27,200,20,No,"Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Whitebeam(Sorbus aria) | Wild service tree(Sorbus torminalis) | Willow, grey(Salix cinerea subsp. Oleifolia)",373
+191,52.52012971648074,-1.8310739156350504,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-01-29,205,28,No,"Alder buckthorn(Frangula alnus) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",644
+192,52.418403999999995,-1.9425259999999998,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-01-26,201,16,No,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",647
+194,52.615857,-2.059127,"Local Residents, Earthwatch
+
+",2022-01-31,204,18,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, silver(Betula pendula) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",642
+195,52.595457,-2.148854,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-02-02,200,22,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia)",640
+196,52.569720000000004,-2.12896,"Local Residents, Earthwatch
+
+",2022-02-03,205,45,No,"Alder(Alnus glutinosa) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",639
+197,52.597139000000006,-2.101722,"Local Residents, Earthwatch
+
+",2022-02-04,204,19,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Willow, grey(Salix cinerea subsp. Oleifolia)",638
+198,52.561380353055256,-2.074920820108497,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-02-03,208,19,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",639
+199,52.565599000000006,-2.170968,"Local Residents, Earthwatch
+
+",2022-02-04,207,24,No,"Alder(Alnus glutinosa) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, wild(Prunus avium) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Willow, grey(Salix cinerea subsp. Oleifolia)",638
+205,52.321905,-1.6712570000000002,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-03-17,203,24,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Willow, grey(Salix cinerea subsp. Oleifolia)",597
+206,52.39302378119749,-1.4640526495569202,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-02-14,209,NA,Yes,"Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",628
+207,52.415305000000004,-1.528072,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-02-15,201,16,No,"Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",627
+208,52.338248,-2.051136,"Corporate Employees, Volunteer Group, Earthwatch, Landscape contractors, University Staff & Students
+
+",2022-02-14,210,32,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",628
+209,52.79032000000001,-2.1081040000000004,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-02-17,210,46,Yes,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia)",625
+210,52.534757,-1.4996979999999998,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-02-15,210,31,Yes,"Alder(Alnus glutinosa) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",627
+218,52.52917232249221,-2.1186593433230896,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-02-21,205,19,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",621
+219,52.452385,-2.1368019999999994,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-02-22,203,NA,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",620
+220,52.493109000000004,-2.078593,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-02-24,209,NA,Yes,"Alder(Alnus glutinosa) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia)",618
+221,52.484908999999995,-2.124418,"Local Residents, Earthwatch
+
+",2022-02-25,204,NA,No,"Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Pear, common(Pyrus communis) | Willow, goat(Salix caprea)",617
+222,52.483546999999994,-1.834239,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-04-07,201,53,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",576
+224,52.61622,-2.1289330000000004,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-03-08,200,20,Yes,"Alder(Alnus glutinosa) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea)",606
+225,52.800133,-2.089367,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-03-11,207,NA,No,"Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia)",603
+226,52.538880999999996,-1.397622,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-02-28,202,19,Yes,"Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia)",614
+227,52.55507,-1.370149,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-03-02,205,NA,No,"Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",612
+228,52.550625999999994,-1.336776,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-03-04,202,18,Yes,"Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia)",610
+229,52.551111,-1.3622550000000002,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-03-01,205,27,No,"Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia)",613
+230,52.545246999999996,-1.389992,"Local Residents, Earthwatch
+
+",2022-03-03,205,17,Yes,"Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",611
+232,52.51446899999999,-2.1128409999999995,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-03-30,207,16,No,"Alder, grey(Alnus incana) | Alder, red(Alnus rubra) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia)",584
+233,52.39184699999999,-2.241009,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-03-17,210,60,Yes,"Alder(Alnus glutinosa) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",597
+234,52.455751,-2.001718,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-04-07,210,46,Yes,"Alder, red(Alnus rubra) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, grey(Salix cinerea subsp. Oleifolia)",576
+235,52.582645,-2.1882870000000003,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-04-07,210,46,Yes,"Alder, grey(Alnus incana) | Alder, red(Alnus rubra) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn, midland(Crataegus laevigata) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia) | Willow, grey(Salix cinerea subsp. Oleifolia)",576
+236,52.363456,-1.439056,"School Children, Earthwatch
+
+",2022-03-28,206,22,Yes,"Alder(Alnus glutinosa) | Aspen(Populus tremula) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, wild(Prunus avium) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",586
+237,52.576195000000006,-2.073685,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-03-21,206,26,No,"Alder, grey(Alnus incana) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",593
+238,52.360015000000004,-2.06217,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-03-31,203,21,No,"Alder, grey(Alnus incana) | Alder, red(Alnus rubra) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia)",583
+239,52.422284,-1.881578,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-04-06,208,22,No,"Alder, grey(Alnus incana) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",577
+242,52.566945000000004,-2.090502,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-03-30,214,30,Yes,"Alder, grey(Alnus incana) | Alder, red(Alnus rubra) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia)",584
+243,52.59173800000001,-2.2647470000000003,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-03-19,209,NA,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, grey(Salix cinerea subsp. Oleifolia)",595
+246,52.503316000000005,-1.883135,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-03-14,210,NA,No,"Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",600
+247,52.476982,-1.422557,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-03-16,203,19,Yes,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Willow, grey(Salix cinerea subsp. Oleifolia)",598
+248,52.27801600000001,-1.5392989999999998,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-03-18,201,20,Yes,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, grey(Salix cinerea subsp. Oleifolia)",596
+249,52.503211,-1.9213539999999998,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-03-15,207,NA,No,"Alder(Alnus glutinosa) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, wild(Prunus avium) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",599
+250,52.34629699999999,-1.575018,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-03-31,210,17,Yes,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, grey(Salix cinerea subsp. Oleifolia)",583
+252,52.393919000000004,-1.82891,"Corporate Employees, Earthwatch
+
+",2022-04-14,206,26,No,"Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia)",569
+253,52.661626,-1.167585,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-03-25,208,24,Yes,"Alder, grey(Alnus incana) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia) | Willow, grey(Salix cinerea subsp. Oleifolia)",589
+254,52.6610553628471,-1.0690354564073,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-03-31,200,26,No,"Alder, grey(Alnus incana) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",583
+255,52.647034,-1.0538239999999996,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-03-23,213,44,No,"Alder, grey(Alnus incana) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",591
+256,52.62847300000001,-1.0735709999999998,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-03-24,206,27,Yes,"Alder, grey(Alnus incana) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",590
+257,52.642539000000006,-1.173677,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-03-24,206,24,Yes,"Alder, grey(Alnus incana) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",590
+258,52.6111,-1.16135,"Corporate Employees, Volunteer Group, School Children, Earthwatch
+
+",2022-04-08,206,24,Yes,"Alder, grey(Alnus incana) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",575
+259,52.9084697960256,-1.4492967765207199,"Corporate Employees, Volunteer Group, Earthwatch, Landscape contractors
+
+",2022-04-09,214,NA,No,"Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia)",574
+260,52.8815392834617,-1.45708103453227,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-04-09,205,NA,No,"Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Hawthorn(Crataegus monogyna) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia) | Willow, common osier(Salix viminalis) | Willow, grey(Salix cinerea subsp. Oleifolia)",574
+261,52.618517000000004,-1.1559229999999998,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-04-05,206,24,Yes,"Alder, grey(Alnus incana) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",578
+263,52.432099,-1.9523639999999998,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-04-01,197,NA,No,"Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry Plum(Prunus cerasifera) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia)",582
+264,52.653262999999995,-1.0537839999999998,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-04-19,208,24,Yes,"Alder, red(Alnus rubra) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia)",564
+265,52.68211300000001,-1.841198,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-04-11,206,24,Yes,"Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Lime, small-leaved(Tilia cordata) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, common osier(Salix viminalis)",572
+287,52.654316,-1.161236,"Corporate Employees, Volunteer Group, School Children, Earthwatch, Landscape contractors
+
+",2022-04-08,206,24,Yes,"Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",575
+288,52.41684699999999,-1.12487,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-04-14,201,NA,No,"Alder, red(Alnus rubra) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pear, common(Pyrus communis) | Rowan(Sorbus aucuparia)",569
+289,52.516687999999995,-1.663106,"Corporate Employees, Volunteer Group, Local Residents, Earthwatch, Landscape contractors
+
+",2022-04-12,200,NA,No,"Alder, red(Alnus rubra) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",571
+298,-37.707092200000005,145.046357,"
+",NA,100,NA,NA,NA,NA
+299,51.45524699999999,-3.162708,"
+",2022-04-01,100,NA,Yes,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Common walnut (Juglans regia) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Sweet chestnut(Castanea sativa) | Willow, eared(Salix aurita) | Willow, grey(Salix cinerea subsp. Oleifolia)",582
+300,51.419940999999994,-3.2579830000000003,"
+",2022-04-01,100,NA,NA,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Common walnut (Juglans regia) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Sweet chestnut(Castanea sativa) | Willow, eared(Salix aurita) | Willow, grey(Salix cinerea subsp. Oleifolia)",582
+301,51.619003,-3.5368269999999997,"Volunteer Group, Local Residents, School Children
+
+",2021-02-15,100,NA,NA,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Common walnut (Juglans regia) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Sweet chestnut(Castanea sativa) | Willow, eared(Salix aurita) | Willow, grey(Salix cinerea subsp. Oleifolia)",992
+303,53.302288999999995,-3.517093,"Volunteer Group, Local Residents
+
+",2021-03-09,100,NA,NA,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Common walnut (Juglans regia) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Sweet chestnut(Castanea sativa) | Willow, eared(Salix aurita) | Willow, grey(Salix cinerea subsp. Oleifolia)",970
+304,53.3125,-4.642499999999999,"Volunteer Group, Local Residents
+
+",2022-02-08,100,NA,NA,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Common walnut (Juglans regia) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Sweet chestnut(Castanea sativa) | Willow, eared(Salix aurita) | Willow, grey(Salix cinerea subsp. Oleifolia)",634
+305,53.15,-4.259167000000001,"Volunteer Group, Local Residents, School Children, Earthwatch
+
+",2022-02-28,100,NA,NA,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Common walnut (Juglans regia) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Sweet chestnut(Castanea sativa) | Willow, eared(Salix aurita) | Willow, grey(Salix cinerea subsp. Oleifolia)",614
+315,51.651119,-0.034409,"Local Residents, School Children
+
+",2022-12-16,200,NA,NA,"Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Whitebeam(Sorbus aria) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",323
+316,51.45146599999999,-0.025275000000000002,"Volunteer Group, Local Residents
+
+",2022-11-22,205,74,No,"Alder(Alnus glutinosa) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Spindle(Euonymus europaea) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",347
+317,54.601504,-5.9783100000000005,"School Children, Earthwatch
+
+",2022-11-09,200,50,NA,"Alder(Alnus glutinosa) | Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Elm, wych(Ulmus glabra) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Juniper(Juniperus communis) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Willow, grey(Salix cinerea subsp. Oleifolia)",360
+318,55.903733,-4.317083999999999,"Volunteer Group, Earthwatch, University Staff & Students
+
+",2022-11-16,200,20,NA,"Alder(Alnus glutinosa) | Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris)",353
+319,51.649139000000005,-3.9737210000000003,"School Children
+
+",2023-03-01,200,NA,NA,"Alder(Alnus glutinosa) | Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",248
+320,51.85165736407679,0.15527581134549304,"Corporate Employees, Local Residents, School Children, Earthwatch
+
+",2023-03-21,200,30,Yes,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Lime, large-leaved(Tilia platyphyllos) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis)",228
+321,53.318176,-2.2282910000000005,"Volunteer Group, Local Residents, School Children, Earthwatch
+
+",2023-02-04,200,30,No,"Alder(Alnus glutinosa) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Broom(Cytisus scoparius) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Willow, grey(Salix cinerea subsp. Oleifolia)",273
+323,51.914162399999995,-0.6451366999999999,"School Children, Earthwatch, Landscape contractors
+
+",2023-02-27,197,28,No,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, grey(Salix cinerea subsp. Oleifolia)",250
+324,52.09693009000001,-0.29757559000000006,"Local Residents, School Children, Earthwatch
+
+",2023-02-08,200,20,No,"Alder(Alnus glutinosa) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Box, common(Buxus sempervirens) | Broom(Cytisus scoparius) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia)",269
+326,51.871505,-0.512358,"Volunteer Group, Earthwatch, Landscape contractors
+
+",2022-12-17,205,18,No,"Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Box, common(Buxus sempervirens) | Buckthorn, purging(Rhamnus cathartica) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis)",322
+327,52.06658205,-0.63102201,"Volunteer Group, Earthwatch, University Staff & Students
+
+",2023-03-23,198,28,No,"Alder(Alnus glutinosa) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",226
+329,52.584093499999994,-1.1487517,"School Children, Earthwatch
+
+",2023-01-31,200,30,No,"Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Broom(Cytisus scoparius) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea)",277
+330,52.62079522620645,-1.16140114284363,"School Children, Landscape contractors
+
+",2022-12-14,200,30,No,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Broom(Cytisus scoparius) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea)",325
+331,51.47726099999999,-0.196531,"Corporate Employees, Local Residents, School Children, Earthwatch
+
+",2022-12-08,200,30,No,"Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Common privet(Ligustrum vulgare) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Wayfaring tree(Viburnum lantana) | Whitebeam(Sorbus aria) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",331
+333,52.63856294402584,-1.1955064940858189,"School Children, Earthwatch
+
+",2023-01-25,200,30,NA,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Willow, grey(Salix cinerea subsp. Oleifolia)",283
+334,52.658707786818596,-1.1564251458556012,"
+",2023-01-20,200,30,NA,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",288
+335,52.650890232776106,-1.1541526205474435,"Corporate Employees, School Children, Earthwatch
+
+",2023-02-28,200,30,Yes,"Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",249
+336,52.67023137001485,-1.1444020362437164,"School Children, Earthwatch
+
+",2023-01-19,200,30,NA,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",289
+337,52.650134,-1.1619239999999997,"School Children, Earthwatch
+
+",2023-03-09,200,30,NA,"Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",240
+338,52.64003879110286,-1.1728991193185052,"School Children, Earthwatch
+
+",2023-02-07,200,30,Yes,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",270
+339,52.645326970000006,-1.09688841,"School Children, Earthwatch, University Staff & Students
+
+",2023-03-21,200,30,No,"Alder(Alnus glutinosa) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Broom(Cytisus scoparius) | Buckthorn, purging(Rhamnus cathartica) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Oak, sessile(Quercus petraea) | Wild service tree(Sorbus torminalis)",228
+342,53.575642900000005,-1.0132841,"School Children, Landscape contractors
+
+",2023-04-19,204,20,No,"Alder(Alnus glutinosa) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Broom(Cytisus scoparius) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Gorse(Ulex europaeus) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Willow, grey(Salix cinerea subsp. Oleifolia)",199
+343,53.438482879399,-1.1090181609206402,"School Children
+
+",2023-01-01,205,18,No,"Alder(Alnus glutinosa) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Gorse(Ulex europaeus) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea)",307
+344,53.501618,-1.01437,"
+",2023-01-01,205,18,No,"Alder(Alnus glutinosa) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Dogwood(Cornus sanguinea) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Willow, goat(Salix caprea) | Willow, grey(Salix cinerea subsp. Oleifolia)",307
+345,53.533876,-1.095681,"School Children
+
+",2023-01-01,205,18,No,"Alder(Alnus glutinosa) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Willow, grey(Salix cinerea subsp. Oleifolia)",307
+346,53.600071,-1.0149929999999998,"School Children
+
+",2023-01-01,205,18,No,"Alder(Alnus glutinosa) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Broom(Cytisus scoparius) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Willow, grey(Salix cinerea subsp. Oleifolia)",307
+347,53.547756,-1.162609,"Earthwatch
+
+",2023-01-01,190,17,No,"Alder(Alnus glutinosa) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Buckthorn, purging(Rhamnus cathartica) | Dog Rose(Rosa canina) | Elder(Sambucus nigra) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, grey(Salix cinerea subsp. Oleifolia)",307
+348,53.616319000000004,-0.9558480000000001,"Earthwatch
+
+",2023-01-01,200,20,No,"Alder(Alnus glutinosa) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Broom(Cytisus scoparius) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea)",307
+349,55.97935832000001,-3.2238290700000003,"Volunteer Group, Local Residents, School Children, Earthwatch
+
+",2023-03-02,205,25,No,"Alder(Alnus glutinosa) | Bilberry(Vaccinium myrtillus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Broom(Cytisus scoparius) | Cherry, bird(Prunus padus) | Elm, wych(Ulmus glabra) | Gorse(Ulex europaeus) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Willow, grey(Salix cinerea subsp. Oleifolia)",247
+351,50.97690821356878,5.775541588587881,"School Children, IVN
+
+",2023-01-26,200,4,Yes,"Alder buckthorn(Frangula alnus) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Common privet(Ligustrum vulgare) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea)",282
+352,51.718680572951826,-0.8222809859244966,"Corporate Employees, Volunteer Group, Earthwatch
+
+",2023-02-09,199,28,No,"Beech, common(Fagus sylvatica) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Box, common(Buxus sempervirens) | Broom(Cytisus scoparius) | Buckthorn, purging(Rhamnus cathartica) | Common privet(Ligustrum vulgare) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Wayfaring tree(Viburnum lantana) | Whitebeam(Sorbus aria) | Wild service tree(Sorbus torminalis)",268
+353,51.9949907,-0.9732150999999999,"Volunteer Group, Local Residents, Earthwatch
+
+",2023-03-17,180,NA,No,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Common privet(Ligustrum vulgare) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",232
+355,52.623918467284604,-1.0841361533977332,"School Children, Earthwatch, Landscape contractors
+
+",2023-02-14,200,30,No,"Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia)",263
+356,51.458749,-0.059757000000000005,"Corporate Employees, Volunteer Group, Local Residents, School Children
+
+",2023-03-08,200,1,NA,"Alder(Alnus glutinosa) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Wild service tree(Sorbus torminalis)",241
+357,52.92834220000001,-1.1942976,"
+",2023-03-24,200,1,NA,"Alder(Alnus glutinosa) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Gorse(Ulex europaeus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Wild service tree(Sorbus torminalis) | Willow, goat(Salix caprea)",225
+359,52.508562000000005,-1.7076659999999997,"Corporate Employees, Local Residents, School Children
+
+",2023-03-30,200,1,NA,"Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Wild service tree(Sorbus torminalis)",219
+360,53.403579524133114,-6.385806710536221,"Corporate Employees, Volunteer Group, Local Residents
+
+",2023-03-22,200,1,No,"Alder(Alnus glutinosa) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Oak, sessile(Quercus petraea) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea)",227
+363,51.486278650643605,-2.5762604563821667,"
+",2023-03-23,200,1,NA,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Dogwood(Cornus sanguinea) | Guelder, rose(Viburnum opulus) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Wayfaring tree(Viburnum lantana) | Wild service tree(Sorbus torminalis)",226
+364,54.534438,-1.5568089999999999,"Local Residents, School Children
+
+",2023-03-14,200,1,NA,"Alder(Alnus glutinosa) | Apple, crab(Malus sylvestris) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Common privet(Ligustrum vulgare) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Willow, goat(Salix caprea)",235
+365,54.991392000000005,-1.7018279999999997,"Corporate Employees, Local Residents, School Children
+
+",2023-03-15,200,1,No,"Alder(Alnus glutinosa) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Buckthorn, purging(Rhamnus cathartica) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Common privet(Ligustrum vulgare) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Heather(Calluna vulgaris) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea)",234
+366,52.209990000000005,6.8683119999999995,"School Children, Earthwatch, IVN
+
+",2023-02-14,200,4,Yes,"Apple, crab(Malus sylvestris) | Ash(Fraxinus excelsior) | Aspen(Populus tremula) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Cherry, bird(Prunus padus) | Common privet(Ligustrum vulgare) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | European wild pear(Pyrus Pyraster) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea)",263
+367,51.43160699999999,5.448708000000001,"
+",2022-04-02,100,NA,No,"Alder(Alnus glutinosa) | Ash(Fraxinus excelsior) | Birch, downy(Betula pubescens) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Elm, wych(Ulmus glabra) | European wild pear(Pyrus Pyraster) | Fluttering ulm(Ulmus laevis) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Maple, field(Acer campestre) | Poplar, black(Poplus nigra) | Rowan(Sorbus aucuparia) | Sea-buckthorn(Hippophae rhamnoides) | Smooth-leaved elm(Ulmus carpinifolia) | Willow, bay(Salix pentandra) | Willow, goat(Salix caprea) | Willow, grey(Salix cinerea subsp. Oleifolia)",581
+368,51.45876066254605,-0.06007444490000822,"Corporate Employees, Local Residents, School Children
+
+",2023-03-08,200,1,NA,"Alder(Alnus glutinosa) | Birch, downy(Betula pubescens) | Birch, silver(Betula pendula) | Blackthorn(Prunus spinosa) | Broom(Cytisus scoparius) | Cherry, wild(Prunus avium) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Wild service tree(Sorbus torminalis)",241
+369,51.590023,4.811615,"School Children, IVN
+
+",2023-03-01,200,4,Yes,"Alder buckthorn(Frangula alnus) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Beech, common(Fagus sylvatica) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Cherry, wild(Prunus avium) | Common privet(Ligustrum vulgare) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Fluttering ulm(Ulmus laevis) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Oak, sessile(Quercus petraea) | Rowan(Sorbus aucuparia) | Spindle(Euonymus europaea) | Willow, eared(Salix aurita)",248
+370,53.3884199,6.557649700000001,"School Children, IVN
+
+",2023-03-09,200,4,Yes,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Apple, crab(Malus sylvestris) | Ash(Fraxinus excelsior) | Aspen(Populus tremula) | Black Currant(Ribes Nigrum) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Common privet(Ligustrum vulgare) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Elder(Sambucus nigra) | Elm, wych(Ulmus glabra) | European wild pear(Pyrus Pyraster) | Fluttering ulm(Ulmus laevis) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Hornbeam(Carpinus betulus) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Rowan(Sorbus aucuparia) | Willow, eared(Salix aurita) | Willow, grey(Salix cinerea subsp. Oleifolia)",240
+371,51.372333000000005,6.130444,"School Children, IVN
+
+",2023-03-15,200,4,Yes,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Apple, crab(Malus sylvestris) | Aspen(Populus tremula) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Black Currant(Ribes Nigrum) | Blackthorn(Prunus spinosa) | Cherry, bird(Prunus padus) | Dog Rose(Rosa canina) | Dogwood(Cornus sanguinea) | Guelder, rose(Viburnum opulus) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Hornbeam(Carpinus betulus) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Willow, eared(Salix aurita) | Willow, grey(Salix cinerea subsp. Oleifolia)",234
+372,52.930825,6.8004739999999995,"School Children, IVN
+
+",2023-03-10,200,4,Yes,"Alder(Alnus glutinosa) | Alder buckthorn(Frangula alnus) | Apple, crab(Malus sylvestris) | Beech, common(Fagus sylvatica) | Birch, downy(Betula pubescens) | Blackthorn(Prunus spinosa) | Blue Hawthorn(Crataegus Schraderiana) | Cherry, bird(Prunus padus) | Elder(Sambucus nigra) | European wild pear(Pyrus Pyraster) | Hawthorn(Crataegus monogyna) | Hazel(Corylus avellana) | Holly(Ilex aquifolium) | Lime, large-leaved(Tilia platyphyllos) | Lime, small-leaved(Tilia cordata) | Maple, field(Acer campestre) | Oak, english(Quercus robur) | Pine, scots(Pinus sylvestris) | Rowan(Sorbus aucuparia) | Willow, eared(Salix aurita) | Willow, goat(Salix caprea) | Willow, grey(Salix cinerea subsp. Oleifolia)",239
+373,52.002274,5.44113,"Volunteer Group
+
+",NA,300,NA,No,NA,NA
+385,53.54618910231,-1.1729201750779958,"School Children
+
+",2023-01-01,204,18,No,NA,307
+386,53.546005830655936,-1.1726154983085861,"School Children
+
+",2023-01-01,204,18,No,NA,307
+387,53.546005830655936,-1.1726154983085861,"School Children
+
+",2023-01-01,204,18,No,NA,307
+388,53.53817200000001,-1.0642150000000001,"School Children, University Staff & Students
+
+",2023-01-01,200,21,No,NA,307
+389,53.608878000000004,-1.1608850000000002,"School Children
+
+",2023-01-01,230,47,No,NA,307
+390,53.464591,-1.13911,"School Children
+
+",2023-01-01,202,21,No,NA,307
+391,53.464456999999996,-1.1390989999999999,"School Children
+
+",2023-01-01,202,21,No,NA,307
+392,53.53489,-1.1522700000000001,"School Children
+
+",2023-01-01,200,21,No,NA,307
+393,53.534819999999996,-1.1521120000000002,"School Children
+
+",2023-01-01,200,21,No,NA,307
+394,53.499725000000005,-1.085618,"School Children
+
+",2023-01-01,205,18,No,NA,307
+395,53.579741,-1.0138909999999997,"School Children
+
+",2023-01-01,190,17,No,NA,307
+328,-32.967285,151.6068,"Volunteer Group, Local Residents, School Children, Earthwatch
+
+",2023-05-24,300,40,NA,"Broad-leaved white mahogany(Eucalyptus umbra) | Coffee bush(Breynia oblongifolia) | Common hop bush, Large leaf hop bush(Dodonea triquetra) | Cut-leaf mint-bush, Native thyme(Prostanthera incisa) | Downy chance, Hairy lolly bush, Hairy clairy(Clerodendrum tomentosum) | Elderberry panas, Small basswood(Polyscias sambucifolia) | Forest red gum(Eucalytpus tereticornis) | Forest she-oa(Allocasuarina torulosa) | Hickory wattle(Acacia implexa) | Large mock-olive, Long-leaved-olive(Notelaea longifolia f. longifolia) | Narrow leafed Orange bark(Maytenus silvestris) | Narrow-leaved geebung(Persoonia linearis) | Northern grey ironbark(Eucalyptus siderophloia) | Prickly paperback(Melaleuca styphelioides) | Prickly-leaved paperbark(Melaleuca nodosa) | Rough guinea flower(Hibbertia aspera) | Slender palm lily(Cordyline stricta) | Spotted gum(Corymbia maculata) | Swamp sheoak(Casuarina glauca) | Sweet bursaria(Bursaria spinosa) | White mahogany, White stringybark(Eucalyptus acmenoides) | Yellow pittosporum(Pittosporum revolutum)",164
+403,-34.93576890000001,138.61887459999997,"Earthwatch
+
+",2023-08-20,135,NA,NA,NA,76
+467,-32.935430000000004,151.67797,"IVN
+
+",2023-10-29,180,20,NA,NA,6

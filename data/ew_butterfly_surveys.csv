@@ -1,0 +1,311 @@
+tiny_forest_id,tiny_forest_name,survey_id,event_date,butterfly_species,qty,edate
+92,"Perry Common, Birmingham",3095,07/06/2022,,NA,2022-06-07
+92,"Perry Common, Birmingham",3080,07/06/2022,,NA,2022-06-07
+168,"Durham Hill, Lewisham",3446,09/06/2022,,NA,2022-06-09
+168,"Durham Hill, Lewisham",3445,09/06/2022,,NA,2022-06-09
+168,"Durham Hill, Lewisham",3443,09/06/2022,,NA,2022-06-09
+93,Hammersmith Park,4026,22/06/2022,Small white,2,2022-06-22
+93,Hammersmith Park,4026,22/06/2022,Skipper species,2,2022-06-22
+93,Hammersmith Park,4026,22/06/2022,Comma,1,2022-06-22
+98,"Moor Lane, Speen (Southern - Rotavated)",3979,22/06/2022,Small white,1,2022-06-22
+98,"Moor Lane, Speen (Southern - Rotavated)",3979,22/06/2022,Marbled white,3,2022-06-22
+98,"Moor Lane, Speen (Southern - Rotavated)",3979,22/06/2022,Other,3,2022-06-22
+164,"Moor Lane, Speen (Northern - Excavated)",3978,22/06/2022,Small white,1,2022-06-22
+164,"Moor Lane, Speen (Northern - Excavated)",3978,22/06/2022,Marbled white,3,2022-06-22
+164,"Moor Lane, Speen (Northern - Excavated)",3978,22/06/2022,Small heath,1,2022-06-22
+164,"Moor Lane, Speen (Northern - Excavated)",3978,22/06/2022,Meadow brown,1,2022-06-22
+164,"Moor Lane, Speen (Northern - Excavated)",3978,22/06/2022,Other,1,2022-06-22
+87,"Meadow Lane, Oxford",4112,23/06/2022,Marbled white,1,2022-06-23
+87,"Meadow Lane, Oxford",4112,23/06/2022,Meadow brown,3,2022-06-23
+206,"Silver Fern, Corpus Christi",5158,30/06/2022,Large white,1,2022-06-30
+206,"Silver Fern, Corpus Christi",5158,30/06/2022,Small white,1,2022-06-30
+206,"Silver Fern, Corpus Christi",5158,30/06/2022,Skipper species,2,2022-06-30
+206,"Silver Fern, Corpus Christi",5158,30/06/2022,Gatekeeper,3,2022-06-30
+206,"Silver Fern, Corpus Christi",5158,30/06/2022,Painted lady,1,2022-06-30
+206,"Silver Fern, Corpus Christi",5158,30/06/2022,Comma,1,2022-06-30
+206,"Silver Fern, Corpus Christi",5158,30/06/2022,Meadow brown,1,2022-06-30
+206,"Silver Fern, Corpus Christi",5158,30/06/2022,Ringlet,3,2022-06-30
+204,"Normand Park, Hammersmith & Fulham",4549,02/07/2022,Common blue,1,2022-07-02
+146,"Bulwell Forest, Nottingham",4640,05/07/2022,Skipper species,1,2022-07-05
+146,"Bulwell Forest, Nottingham",4640,05/07/2022,Other,2,2022-07-05
+146,"Bulwell Forest, Nottingham",4625,05/07/2022,Large white,1,2022-07-05
+146,"Bulwell Forest, Nottingham",4625,05/07/2022,Small white,1,2022-07-05
+146,"Bulwell Forest, Nottingham",4625,05/07/2022,Red admiral,1,2022-07-05
+146,"Bulwell Forest, Nottingham",4625,05/07/2022,Peacock,1,2022-07-05
+155,"Parkhead, West Calder",4843,12/07/2022,,NA,2022-07-12
+276,"Addiewell, West Lothian",4842,12/07/2022,,NA,2022-07-12
+276,"Addiewell, West Lothian",4841,12/07/2022,,NA,2022-07-12
+276,"Addiewell, West Lothian",4840,12/07/2022,,NA,2022-07-12
+155,"Parkhead, West Calder",4830,12/07/2022,,NA,2022-07-12
+155,"Parkhead, West Calder",4829,12/07/2022,,NA,2022-07-12
+155,"Parkhead, West Calder",4828,12/07/2022,,NA,2022-07-12
+155,"Parkhead, West Calder",4827,12/07/2022,,NA,2022-07-12
+165,"William Torbitt, Redbridge",4887,13/07/2022,Large white,1,2022-07-13
+165,"William Torbitt, Redbridge",4887,13/07/2022,Gatekeeper,5,2022-07-13
+165,"William Torbitt, Redbridge",4886,13/07/2022,,NA,2022-07-13
+269,"Robertson Street, Dundee",5005,17/07/2022,Large white,1,2022-07-17
+269,"Robertson Street, Dundee",5005,17/07/2022,Small white,1,2022-07-17
+269,"Robertson Street, Dundee",5005,17/07/2022,Small heath,1,2022-07-17
+149,"Littlemore, Oxford",5091,18/07/2022,Large white,1,2022-07-18
+149,"Littlemore, Oxford",5091,18/07/2022,Small white,1,2022-07-18
+149,"Littlemore, Oxford",5091,18/07/2022,Small heath,2,2022-07-18
+278,Whitburn,5403,21/07/2022,Ringlet,6,2022-07-21
+278,Whitburn,5401,21/07/2022,Small tortoiseshell,2,2022-07-21
+278,Whitburn,5401,21/07/2022,Ringlet,1,2022-07-21
+278,Whitburn,5400,21/07/2022,Small tortoiseshell,2,2022-07-21
+278,Whitburn,5400,21/07/2022,Ringlet,1,2022-07-21
+278,Whitburn,5399,21/07/2022,,NA,2022-07-21
+153,West Pilton Park,5381,21/07/2022,,NA,2022-07-21
+153,West Pilton Park,5380,21/07/2022,,NA,2022-07-21
+153,West Pilton Park,5379,21/07/2022,,NA,2022-07-21
+153,West Pilton Park,5378,21/07/2022,,NA,2022-07-21
+156,"Queen's Park Recreation Ground, Glasgow",6262,09/08/2022,Painted lady,1,2022-08-09
+200,A Severn Trent TEMPLATE,5625,16/08/2022,Brimstone,1,2022-08-16
+195,"Gibralter's Barbary Partridge, Coleman Street",5755,20/08/2022,Large white,1,2022-08-20
+195,"Gibralter's Barbary Partridge, Coleman Street",5755,20/08/2022,Holly blue,1,2022-08-20
+227,"Collared Lory, Jellicoe Way Open Space",5915,23/08/2022,Large white,2,2022-08-23
+227,"Collared Lory, Jellicoe Way Open Space",5915,23/08/2022,Small white,1,2022-08-23
+227,"Collared Lory, Jellicoe Way Open Space",5915,23/08/2022,Gatekeeper,1,2022-08-23
+227,"Collared Lory, Jellicoe Way Open Space",5914,23/08/2022,Brimstone,1,2022-08-23
+227,"Collared Lory, Jellicoe Way Open Space",5914,23/08/2022,Large white,2,2022-08-23
+227,"Collared Lory, Jellicoe Way Open Space",5914,23/08/2022,Other,1,2022-08-23
+227,"Collared Lory, Jellicoe Way Open Space",5909,23/08/2022,Large white,1,2022-08-23
+227,"Collared Lory, Jellicoe Way Open Space",5909,23/08/2022,Speckled wood,1,2022-08-23
+265,"Blue Water Lily, Christ Church Open Space",6180,24/08/2022,Large white,1,2022-08-24
+89,"Avenue End, Glasgow",6764,14/09/2022,,NA,2022-09-14
+300,"Pencoedtre Park, Barry ",7307,23/09/2022,Other,2,2022-09-23
+300,"Pencoedtre Park, Barry ",7305,23/09/2022,,NA,2022-09-23
+300,"Pencoedtre Park, Barry ",7301,23/09/2022,,NA,2022-09-23
+280,"Colinton Mains Park, Edinburgh",8220,13/10/2022,,NA,2022-10-13
+280,"Colinton Mains Park, Edinburgh",8219,13/10/2022,,NA,2022-10-13
+280,"Colinton Mains Park, Edinburgh",8218,13/10/2022,,NA,2022-10-13
+280,"Colinton Mains Park, Edinburgh",8215,13/10/2022,Red admiral,1,2022-10-13
+154,"Peacocktail Close, Edinburgh",15952,26/09/2023,NA,NA,2023-09-26
+154,"Peacocktail Close, Edinburgh",15951,26/09/2023,NA,NA,2023-09-26
+154,"Peacocktail Close, Edinburgh",15950,26/09/2023,NA,NA,2023-09-26
+154,"Peacocktail Close, Edinburgh",15949,26/09/2023,NA,NA,2023-09-26
+154,"Peacocktail Close, Edinburgh",15948,26/09/2023,NA,NA,2023-09-26
+154,"Peacocktail Close, Edinburgh",15946,26/09/2023,NA,NA,2023-09-26
+283,"Bonnyrigg Primary School, Midlothian",15943,26/09/2023,NA,NA,2023-09-26
+283,"Bonnyrigg Primary School, Midlothian",15942,26/09/2023,NA,NA,2023-09-26
+283,"Bonnyrigg Primary School, Midlothian",15941,26/09/2023,NA,NA,2023-09-26
+283,"Bonnyrigg Primary School, Midlothian",15939,26/09/2023,NA,NA,2023-09-26
+313,"White Hart Lane, Haringey",14995,21/09/2023,Green-veined white,1,2023-09-21
+299,"Cardiff Bay Coed Bach, Cardiff",14550,18/09/2023,NA,NA,2023-09-18
+164,"Moor Lane, Speen (Northern - Excavated)",14040,07/09/2023,NA,NA,2023-09-07
+164,"Moor Lane, Speen (Northern - Excavated)",14033,07/09/2023,NA,NA,2023-09-07
+164,"Moor Lane, Speen (Northern - Excavated)",14031,07/09/2023,NA,NA,2023-09-07
+164,"Moor Lane, Speen (Northern - Excavated)",14029,07/09/2023,NA,NA,2023-09-07
+276,"Addiewell, West Lothian",14009,04/09/2023,Orange-tip,1,2023-09-04
+276,"Addiewell, West Lothian",14009,04/09/2023,Painted lady,1,2023-09-04
+276,"Addiewell, West Lothian",14009,04/09/2023,Small copper,1,2023-09-04
+276,"Addiewell, West Lothian",14009,04/09/2023,Comma,1,2023-09-04
+276,"Addiewell, West Lothian",14009,04/09/2023,Wall brown,1,2023-09-04
+276,"Addiewell, West Lothian",14009,04/09/2023,Ringlet,1,2023-09-04
+276,"Addiewell, West Lothian",14009,04/09/2023,Holly blue,1,2023-09-04
+176,"Turtle Dove, Mesnes Green",13453,24/08/2023,NA,NA,2023-08-24
+95,"Oak Street, Wolverhampton",13366,18/08/2023,NA,NA,2023-08-18
+164,"Moor Lane, Speen (Northern - Excavated)",13258,15/08/2023,Small heath,8,2023-08-15
+98,"Moor Lane, Speen (Southern - Rotavated)",13256,15/08/2023,Small heath,9,2023-08-15
+168,"Durham Hill, Lewisham",13203,13/08/2023,NA,NA,2023-08-13
+214,"Five Trees, Cambridge",13136,11/08/2023,Small white,4,2023-08-11
+214,"Five Trees, Cambridge",13136,11/08/2023,Meadow brown,1,2023-08-11
+214,"Five Trees, Cambridge",13136,11/08/2023,Common blue,1,2023-08-11
+203,"Mutton Brook, Barnet",13083,06/08/2023,Green-veined white,1,2023-08-06
+203,"Mutton Brook, Barnet",13083,06/08/2023,Holly blue,1,2023-08-06
+203,"Mutton Brook, Barnet",13053,06/08/2023,NA,NA,2023-08-06
+252,"Flamboyant, Hope Coppice",12913,19/07/2023,Small white,2,2023-07-19
+252,"Flamboyant, Hope Coppice",12913,19/07/2023,Small heath,1,2023-07-19
+252,"Flamboyant, Hope Coppice",12913,19/07/2023,Skipper species,2,2023-07-19
+252,"Flamboyant, Hope Coppice",12913,19/07/2023,Meadow brown,1,2023-07-19
+86,"Foxwell Drive, Oxford",12911,18/07/2023,Large white,1,2023-07-18
+316,"Ladywell Fields, Lewisham",12549,10/07/2023,Large white,1,2023-07-10
+212,"Buckhurst Field, Swindon",12363,05/07/2023,Gatekeeper,1,2023-07-05
+212,"Buckhurst Field, Swindon",12362,05/07/2023,Large white,1,2023-07-05
+212,"Buckhurst Field, Swindon",12362,05/07/2023,Small white,1,2023-07-05
+212,"Buckhurst Field, Swindon",12362,05/07/2023,Small tortoiseshell,1,2023-07-05
+156,"Queen's Park Recreation Ground, Glasgow",12299,03/07/2023,NA,NA,2023-07-03
+204,"Normand Park, Hammersmith & Fulham",11794,25/06/2023,Small white,2,2023-06-25
+204,"Normand Park, Hammersmith & Fulham",11768,25/06/2023,Green-veined white,1,2023-06-25
+204,"Normand Park, Hammersmith & Fulham",11768,25/06/2023,Large white,2,2023-06-25
+202,"Southmere Park, Thamesmead",11366,14/06/2023,Common blue,1,2023-06-14
+202,"Southmere Park, Thamesmead",11364,14/06/2023,NA,NA,2023-06-14
+155,"Parkhead, West Calder",11358,14/06/2023,Small white,1,2023-06-14
+155,"Parkhead, West Calder",11357,14/06/2023,Small white,1,2023-06-14
+155,"Parkhead, West Calder",11356,14/06/2023,Small white,1,2023-06-14
+155,"Parkhead, West Calder",11355,14/06/2023,Small white,1,2023-06-14
+375,Pentland View Park Wee Forest,11274,12/06/2023,NA,NA,2023-06-12
+156,"Queen's Park Recreation Ground, Glasgow",11271,12/06/2023,Small white,1,2023-06-12
+282,"Douglas Wee Forest, Dundee",11256,31/05/2023,NA,NA,2023-05-31
+153,"West Pilton Park, Edinburgh",11090,07/06/2023,NA,NA,2023-06-07
+153,"West Pilton Park, Edinburgh",11089,07/06/2023,Small white,1,2023-06-07
+153,"West Pilton Park, Edinburgh",11088,07/06/2023,Small white,1,2023-06-07
+153,"West Pilton Park, Edinburgh",11087,07/06/2023,NA,NA,2023-06-07
+156,"Queen's Park Recreation Ground, Glasgow",11063,06/06/2023,NA,NA,2023-06-06
+320,"St James' Park, Bishop's Stortford",10685,28/05/2023,NA,NA,2023-05-28
+320,"St James' Park, Bishop's Stortford",10684,28/05/2023,NA,NA,2023-05-28
+326,"Mentmore Recreation Ground, Dunstable",10681,28/05/2023,Brimstone,1,2023-05-28
+326,"Mentmore Recreation Ground, Dunstable",10681,28/05/2023,Small white,1,2023-05-28
+326,"Mentmore Recreation Ground, Dunstable",10681,28/05/2023,Common blue,1,2023-05-28
+225,"Papua New Guinea Orchid, Fairbanks Riverside",10675,24/05/2023,NA,NA,2023-05-24
+150,"Monkton Park, Chippenham",10547,26/05/2023,NA,NA,2023-05-26
+92,"Perry Common, Birmingham",10543,26/05/2023,Large white,1,2023-05-26
+92,"Perry Common, Birmingham",10542,26/05/2023,NA,NA,2023-05-26
+148,"The Delph, Wirral",10482,25/05/2023,Large white,2,2023-05-25
+148,"The Delph, Wirral",10482,25/05/2023,Small white,2,2023-05-25
+148,"The Delph, Wirral",10482,25/05/2023,Common blue,1,2023-05-25
+374,"Boghall Wee Forest, Boghall",10478,25/05/2023,Small white,1,2023-05-25
+374,"Boghall Wee Forest, Boghall",10477,25/05/2023,Small white,1,2023-05-25
+374,"Boghall Wee Forest, Boghall",10476,25/05/2023,Small white,1,2023-05-25
+374,"Boghall Wee Forest, Boghall",10475,25/05/2023,Small white,1,2023-05-25
+374,"Boghall Wee Forest, Boghall",10475,25/05/2023,Peacock,1,2023-05-25
+150,"Monkton Park, Chippenham",10454,24/05/2023,NA,NA,2023-05-24
+252,"Flamboyant, Hope Coppice",10391,24/05/2023,Small white,1,2023-05-24
+252,"Flamboyant, Hope Coppice",10391,24/05/2023,Common blue,1,2023-05-24
+98,"Moor Lane, Speen (Southern - Rotavated)",10290,23/05/2023,Skipper species,1,2023-05-23
+98,"Moor Lane, Speen (Southern - Rotavated)",10289,23/05/2023,NA,NA,2023-05-23
+95,"Oak Street, Wolverhampton",10229,21/05/2023,Large white,1,2023-05-21
+95,"Oak Street, Wolverhampton",10229,21/05/2023,Speckled wood,1,2023-05-21
+204,"Normand Park, Hammersmith & Fulham",10228,21/05/2023,NA,NA,2023-05-21
+203,"Mutton Brook, Barnet",10206,21/05/2023,NA,NA,2023-05-21
+144,"Southglade Park, Nottingham",10197,20/05/2023,Large white,1,2023-05-20
+144,"Southglade Park, Nottingham",10196,20/05/2023,Small white,1,2023-05-20
+144,"Southglade Park, Nottingham",10182,20/05/2023,Small white,1,2023-05-20
+144,"Southglade Park, Nottingham",10178,20/05/2023,Small white,2,2023-05-20
+144,"Southglade Park, Nottingham",10178,20/05/2023,Skipper species,1,2023-05-20
+203,"Mutton Brook, Barnet",9713,17/05/2023,Brimstone,2,2023-05-17
+215,"Fawcett Primary School, Cambridge",9399,01/05/2023,Red admiral,1,2023-05-01
+280,"Colinton Mains Park Wee Forest, Edinburgh",8220,13/10/2022,NA,NA,2022-10-13
+280,"Colinton Mains Park Wee Forest, Edinburgh",8219,13/10/2022,NA,NA,2022-10-13
+280,"Colinton Mains Park Wee Forest, Edinburgh",8218,13/10/2022,NA,NA,2022-10-13
+280,"Colinton Mains Park Wee Forest, Edinburgh",8215,13/10/2022,Red admiral,1,2022-10-13
+300,"Pencoedtre Park Coed Bach, Barry",7307,23/09/2022,Other,2,2022-09-23
+300,"Pencoedtre Park Coed Bach, Barry",7305,23/09/2022,NA,NA,2022-09-23
+300,"Pencoedtre Park Coed Bach, Barry",7301,23/09/2022,NA,NA,2022-09-23
+89,"Avenue End, Glasgow",6764,14/09/2022,NA,NA,2022-09-14
+156,"Queen's Park Recreation Ground, Glasgow",6262,09/08/2022,Painted lady,1,2022-08-09
+265,"Blue Water Lily, Christ Church Open Space",6180,24/08/2022,Large white,1,2022-08-24
+227,"Collared Lory, Jellicoe Way Open Space",5915,23/08/2022,Large white,2,2022-08-23
+227,"Collared Lory, Jellicoe Way Open Space",5915,23/08/2022,Small white,1,2022-08-23
+227,"Collared Lory, Jellicoe Way Open Space",5915,23/08/2022,Gatekeeper,1,2022-08-23
+227,"Collared Lory, Jellicoe Way Open Space",5914,23/08/2022,Brimstone,1,2022-08-23
+227,"Collared Lory, Jellicoe Way Open Space",5914,23/08/2022,Large white,2,2022-08-23
+227,"Collared Lory, Jellicoe Way Open Space",5914,23/08/2022,Other,1,2022-08-23
+227,"Collared Lory, Jellicoe Way Open Space",5909,23/08/2022,Large white,1,2022-08-23
+227,"Collared Lory, Jellicoe Way Open Space",5909,23/08/2022,Speckled wood,1,2022-08-23
+195,"Gibralter's Barbary Partridge, Coleman Street",5755,20/08/2022,Large white,1,2022-08-20
+195,"Gibralter's Barbary Partridge, Coleman Street",5755,20/08/2022,Holly blue,1,2022-08-20
+278,"Whitburn Wee Forest, Whitburn",5403,21/07/2022,Ringlet,6,2022-07-21
+278,"Whitburn Wee Forest, Whitburn",5401,21/07/2022,Small tortoiseshell,2,2022-07-21
+278,"Whitburn Wee Forest, Whitburn",5401,21/07/2022,Ringlet,1,2022-07-21
+278,"Whitburn Wee Forest, Whitburn",5400,21/07/2022,Small tortoiseshell,2,2022-07-21
+278,"Whitburn Wee Forest, Whitburn",5400,21/07/2022,Ringlet,1,2022-07-21
+278,"Whitburn Wee Forest, Whitburn",5399,21/07/2022,NA,NA,2022-07-21
+153,"West Pilton Park, Edinburgh",5381,21/07/2022,NA,NA,2022-07-21
+153,"West Pilton Park, Edinburgh",5380,21/07/2022,NA,NA,2022-07-21
+153,"West Pilton Park, Edinburgh",5379,21/07/2022,NA,NA,2022-07-21
+153,"West Pilton Park, Edinburgh",5378,21/07/2022,NA,NA,2022-07-21
+206,"Silver Fern, Corpus Christi",5158,30/06/2022,Large white,1,2022-06-30
+206,"Silver Fern, Corpus Christi",5158,30/06/2022,Small white,1,2022-06-30
+206,"Silver Fern, Corpus Christi",5158,30/06/2022,Skipper species,2,2022-06-30
+206,"Silver Fern, Corpus Christi",5158,30/06/2022,Gatekeeper,3,2022-06-30
+206,"Silver Fern, Corpus Christi",5158,30/06/2022,Painted lady,1,2022-06-30
+206,"Silver Fern, Corpus Christi",5158,30/06/2022,Comma,1,2022-06-30
+206,"Silver Fern, Corpus Christi",5158,30/06/2022,Meadow brown,1,2022-06-30
+206,"Silver Fern, Corpus Christi",5158,30/06/2022,Ringlet,3,2022-06-30
+149,"Littlemore, Oxford",5091,18/07/2022,Large white,1,2022-07-18
+149,"Littlemore, Oxford",5091,18/07/2022,Small white,1,2022-07-18
+149,"Littlemore, Oxford",5091,18/07/2022,Small heath,2,2022-07-18
+269,"Robertson Street, Dundee",5005,17/07/2022,Large white,1,2022-07-17
+269,"Robertson Street, Dundee",5005,17/07/2022,Small white,1,2022-07-17
+269,"Robertson Street, Dundee",5005,17/07/2022,Small heath,1,2022-07-17
+165,"William Torbitt, Redbridge",4887,13/07/2022,Large white,1,2022-07-13
+165,"William Torbitt, Redbridge",4887,13/07/2022,Gatekeeper,5,2022-07-13
+165,"William Torbitt, Redbridge",4886,13/07/2022,NA,NA,2022-07-13
+155,"Parkhead, West Calder",4843,12/07/2022,NA,NA,2022-07-12
+276,"Addiewell, West Lothian",4842,12/07/2022,NA,NA,2022-07-12
+276,"Addiewell, West Lothian",4841,12/07/2022,NA,NA,2022-07-12
+276,"Addiewell, West Lothian",4840,12/07/2022,NA,NA,2022-07-12
+155,"Parkhead, West Calder",4830,12/07/2022,NA,NA,2022-07-12
+155,"Parkhead, West Calder",4829,12/07/2022,NA,NA,2022-07-12
+155,"Parkhead, West Calder",4828,12/07/2022,NA,NA,2022-07-12
+155,"Parkhead, West Calder",4827,12/07/2022,NA,NA,2022-07-12
+96,"East Wichel Park, Swindon",4791,22/06/2021,NA,NA,2021-06-22
+146,"Bulwell Forest, Nottingham",4640,05/07/2022,Skipper species,1,2022-07-05
+146,"Bulwell Forest, Nottingham",4640,05/07/2022,Other,2,2022-07-05
+146,"Bulwell Forest, Nottingham",4625,05/07/2022,Large white,1,2022-07-05
+146,"Bulwell Forest, Nottingham",4625,05/07/2022,Small white,1,2022-07-05
+146,"Bulwell Forest, Nottingham",4625,05/07/2022,Red admiral,1,2022-07-05
+146,"Bulwell Forest, Nottingham",4625,05/07/2022,Peacock,1,2022-07-05
+204,"Normand Park, Hammersmith & Fulham",4549,02/07/2022,Common blue,1,2022-07-02
+269,"Robertson Street, Dundee",4147,27/05/2022,NA,NA,2022-05-27
+87,"Meadow Lane, Oxford",4112,23/06/2022,Marbled white,1,2022-06-23
+87,"Meadow Lane, Oxford",4112,23/06/2022,Meadow brown,3,2022-06-23
+93,"Hammersmith Park, Hammersmith and Fulham",4026,22/06/2022,Small white,2,2022-06-22
+93,"Hammersmith Park, Hammersmith and Fulham",4026,22/06/2022,Skipper species,2,2022-06-22
+93,"Hammersmith Park, Hammersmith and Fulham",4026,22/06/2022,Comma,1,2022-06-22
+98,"Moor Lane, Speen (Southern - Rotavated)",3979,22/06/2022,Small white,1,2022-06-22
+98,"Moor Lane, Speen (Southern - Rotavated)",3979,22/06/2022,Marbled white,3,2022-06-22
+98,"Moor Lane, Speen (Southern - Rotavated)",3979,22/06/2022,Other,3,2022-06-22
+164,"Moor Lane, Speen (Northern - Excavated)",3978,22/06/2022,Small white,1,2022-06-22
+164,"Moor Lane, Speen (Northern - Excavated)",3978,22/06/2022,Marbled white,3,2022-06-22
+164,"Moor Lane, Speen (Northern - Excavated)",3978,22/06/2022,Small heath,1,2022-06-22
+164,"Moor Lane, Speen (Northern - Excavated)",3978,22/06/2022,Meadow brown,1,2022-06-22
+164,"Moor Lane, Speen (Northern - Excavated)",3978,22/06/2022,Other,1,2022-06-22
+168,"Durham Hill, Lewisham",3446,09/06/2022,NA,NA,2022-06-09
+168,"Durham Hill, Lewisham",3445,09/06/2022,NA,NA,2022-06-09
+168,"Durham Hill, Lewisham",3443,09/06/2022,NA,NA,2022-06-09
+92,"Perry Common, Birmingham",3095,07/06/2022,NA,NA,2022-06-07
+92,"Perry Common, Birmingham",3080,07/06/2022,NA,NA,2022-06-07
+87,"Meadow Lane, Oxford",3006,31/05/2022,Orange-tip,1,2022-05-31
+136,"East Pilton Park, Edinburgh",2940,30/05/2022,NA,NA,2022-05-30
+95,"Oak Street, Wolverhampton",2813,29/05/2022,NA,NA,2022-05-29
+203,"Mutton Brook, Barnet",2802,28/05/2022,NA,NA,2022-05-28
+180,"Common Loon, Redwood Park",2798,27/05/2022,Large white,1,2022-05-27
+93,"Hammersmith Park, Hammersmith and Fulham",2736,27/05/2022,Red admiral,1,2022-05-27
+93,"Hammersmith Park, Hammersmith and Fulham",2728,27/05/2022,Other,2,2022-05-27
+204,"Normand Park, Hammersmith & Fulham",2722,27/05/2022,Red admiral,2,2022-05-27
+93,"Hammersmith Park, Hammersmith and Fulham",2721,27/05/2022,Other,2,2022-05-27
+204,"Normand Park, Hammersmith & Fulham",2719,27/05/2022,NA,NA,2022-05-27
+93,"Hammersmith Park, Hammersmith and Fulham",2718,27/05/2022,NA,NA,2022-05-27
+93,"Hammersmith Park, Hammersmith and Fulham",2712,27/05/2022,NA,NA,2022-05-27
+93,"Hammersmith Park, Hammersmith and Fulham",2705,27/05/2022,NA,NA,2022-05-27
+93,"Hammersmith Park, Hammersmith and Fulham",2701,27/05/2022,NA,NA,2022-05-27
+168,"Durham Hill, Lewisham",2699,27/05/2022,NA,NA,2022-05-27
+216,"Grove Primary School, Cambridge",2681,26/05/2022,NA,NA,2022-05-26
+92,"Perry Common, Birmingham",2680,27/05/2022,NA,NA,2022-05-27
+92,"Perry Common, Birmingham",2679,27/05/2022,NA,NA,2022-05-27
+92,"Perry Common, Birmingham",2678,27/05/2022,NA,NA,2022-05-27
+92,"Perry Common, Birmingham",2677,27/05/2022,Green-veined white,1,2022-05-27
+92,"Perry Common, Birmingham",2676,27/05/2022,Small white,1,2022-05-27
+92,"Perry Common, Birmingham",2675,27/05/2022,Green-veined white,1,2022-05-27
+92,"Perry Common, Birmingham",2674,27/05/2022,Small white,1,2022-05-27
+92,"Perry Common, Birmingham",2673,27/05/2022,Large white,1,2022-05-27
+92,"Perry Common, Birmingham",2672,27/05/2022,Small white,1,2022-05-27
+98,"Moor Lane, Speen (Southern - Rotavated)",2667,27/05/2022,Small white,1,2022-05-27
+98,"Moor Lane, Speen (Southern - Rotavated)",2667,27/05/2022,Meadow brown,2,2022-05-27
+98,"Moor Lane, Speen (Southern - Rotavated)",2667,27/05/2022,Common blue,2,2022-05-27
+149,"Littlemore, Oxford",2666,27/05/2022,NA,NA,2022-05-27
+171,"Frank Bott Avenue, Crewe",2656,26/05/2022,NA,NA,2022-05-26
+138,"Bowling Park School, Bradford",2605,25/05/2022,NA,NA,2022-05-25
+203,"Mutton Brook, Barnet",2593,25/05/2022,NA,NA,2022-05-25
+167,"Queen's Park, Hinckley",2445,22/05/2022,NA,NA,2022-05-22
+87,"Meadow Lane, Oxford",2442,21/05/2022,Small white,1,2022-05-21
+222,"Jersey Lily, Saltley Academy",2441,19/05/2022,Brimstone,1,2022-05-19
+172,"Mereside Public Open Space, Blackpool",2432,19/05/2022,Brimstone,2,2022-05-19
+172,"Mereside Public Open Space, Blackpool",2432,19/05/2022,Skipper species,1,2022-05-19
+172,"Mereside Public Open Space, Blackpool",2432,19/05/2022,Common blue,1,2022-05-19
+89,"Avenue End, Glasgow",2429,19/05/2022,Brimstone,1,2022-05-19
+85,"Tychwood, Witney",2268,12/05/2022,Large white,1,2022-05-12
+85,"Tychwood, Witney",2268,12/05/2022,Orange-tip,1,2022-05-12
+86,"Foxwell Drive, Oxford",2209,10/05/2022,NA,NA,2022-05-10
+96,"East Wichel Park, Swindon",1348,05/10/2021,NA,NA,2021-10-05
+93,"Hammersmith Park, Hammersmith and Fulham",1188,29/09/2021,NA,NA,2021-09-29
+85,"Tychwood, Witney",824,25/07/2021,Small white,2,2021-07-25
+96,"East Wichel Park, Swindon",693,22/06/2021,NA,NA,2021-06-22
+95,"Oak Street, Wolverhampton",682,14/07/2021,Small white,1,2021-07-14
+94,"East Lancing Recreation Ground, Lancing",666,28/07/2021,Small white,1,2021-07-28
+94,"East Lancing Recreation Ground, Lancing",666,28/07/2021,Meadow brown,1,2021-07-28
+92,"Perry Common, Birmingham",636,15/07/2021,Small white,1,2021-07-15
+87,"Meadow Lane, Oxford",525,10/07/2021,NA,NA,2021-07-10
+99,"Scawsby Saltersgate School, Doncaster",383,28/07/2021,NA,NA,2021-07-28

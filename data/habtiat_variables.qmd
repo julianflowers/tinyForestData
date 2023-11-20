@@ -1,0 +1,46 @@
+---
+title: "Habitat variables"
+format: html
+editor: visual
+---
+
+```{r setup, include=FALSE}
+
+needs(sf, tidyverse, MuMIn, skimr, janitor, gtsummary)
+
+```
+
+## Load data
+
+```{r}
+
+#| fig-cap: "Summary TF buffer landscape characteristics"
+#| label: summary tf 
+
+habitat <-  read_csv("/Users/julianflowers/tiny_forest_thesis/data/wood_road.csv")
+
+#skimr::skim(habitat)
+
+habitat |>
+    select(-1) |>
+    #mutate_all(\(x) ifelse(is.na(x), 0, )) |>
+    gtsummary::tbl_summary(
+        type = all_continuous() ~ "continuous2",
+        statistic = all_continuous() ~ c("{median} ({p25}, {p75}) ", 
+                                         "{N_miss}"),
+        missing = "ifany",
+        
+        
+        label = list(hedge_len ~ "Hedge length (m)", 
+                     built_area ~ "Built up extent (m2)", 
+                     road_length ~ "Road length (m)", 
+                     p_patches ~ "Number of priority habitats", 
+                     ph_area ~ "Priority habitat area (m2)", 
+                     area_w_still_water ~ "Fresh water area (m2)", 
+                     len_w_watercourse ~ "Length of rivers and streams (m)")
+    ) |>
+    modify_caption("**Tiny Forest Landscape Characteristics** (N = {N})") |>
+    italicize_levels()
+
+
+```
